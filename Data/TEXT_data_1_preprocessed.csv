@@ -1,0 +1,160 @@
+,Particular,Values,date,type,Category
+2,Complaint about no parking zone,1,April 2020,Number,Parking
+5,Alleged malfunctioning vehicle,1,February 2020,Number,Malfunction
+6,Alleged charger behavior,1,February 2020,Number,Malfunction
+7,Alleged damage to property,2,February 2020,Number,Vandalism
+8,Submerged vehicle,1,February 2020,Number,Malfunction
+11,Request for refund,1,January 2020,Number,Refund
+12,Bird charger/driver behavior,1,January 2020,Number,Driver Behavior
+15,Alleged malfunctioning vehicle,1,March 2020,Number,Malfunction
+16,Alleged charger/driver behavior,1,March 2020,Number,Driver Behavior
+17,Alleged injury,3,March 2020,Number,Injury/Accident
+18,Alleged wet/submerged vehicle,2,March 2020,Number,Malfunction
+21,Alleged vehicle issue,5,May 2020,Number,Malfunction
+22,Alleged injury,2,May 2020,Number,Injury/Accident
+23,Alleged accident,1,May 2020,Number,Injury/Accident
+26,Alleged Malfunctioning Vehicle,26.0,March 2021,Time to remedy,Malfunction
+27,Alleged Accident,20.0,March 2021,Time to remedy,Injury/Accident
+28,Payment Related,720.0,March 2021,Time to remedy,Refund
+29,Vandalism,13.0,March 2021,Time to remedy,Vandalism
+30,Request for Refund,2880.0,March 2021,Time to remedy,Refund
+31,Request for Refund,26.0,March 2021,Time to remedy,Refund
+35,Alleged Malfunctioning Vehicle,26.0,March 2021,Time to remedy,Malfunction
+36,Alleged Accident,20.0,March 2021,Time to remedy,Injury/Accident
+37,Payment Related,720.0,March 2021,Time to remedy,Refund
+38,Vandalism,13.0,March 2021,Time to remedy,Vandalism
+39,Request for Refund,2880.0,March 2021,Time to remedy,Refund
+40,Request for Refund,26.0,March 2021,Time to remedy,Refund
+44,allged malfunctioning vehicle,14.5,May 2021,Time to remedy,Malfunction
+45,vehicle(s) in water,45.0,May 2021,Time to remedy,Malfunction
+46,injury,16.9,May 2021,Time to remedy,Injury/Accident
+47,"Related to chargers, driver behavior",45.0,May 2021,Time to remedy,Malfunction
+48,payment related,362.5,May 2021,Time to remedy,Refund
+49,improper use,10.0,May 2021,Time to remedy,Irresponsible Behavior
+50,irresponsible rider behavior,15.0,May 2021,Time to remedy,Irresponsible Behavior
+51,(Not a complaint) request to delete account / erase personal data,120.0,May 2021,Time to remedy,Account/Delete
+55,Alleged malfunctioning vehicle,0.0,August 2020,Time to remedy,Malfunction
+56,Alleged malfunctioning vehicle,0.0,August 2020,Time to remedy,Malfunction
+57,Injury,480.0,August 2020,Time to remedy,Injury/Accident
+58,Request for refund,15.0,August 2020,Time to remedy,Refund
+59,Request for refund,360.0,August 2020,Time to remedy,Refund
+60,Payment Related,1.0,August 2020,Time to remedy,Refund
+61,Complaint About No Parking Zone,1440.0,August 2020,Time to remedy,Parking
+65,Alleged malfunctioning vehicle,16.0,January 2022,Time to remedy,Malfunction
+66,Improper placement,20.0,January 2022,Time to remedy,Irresponsible Behavior
+67,Injury,10.0,January 2022,Time to remedy,Injury/Accident
+68,Vandalism,7.0,January 2022,Time to remedy,Vandalism
+69,Complaint about no parking zone,4.0,January 2022,Time to remedy,Parking
+70,Request for refund,7.0,January 2022,Time to remedy,Refund
+74,Alleged malfunctioning vehicle   ,6.0,December 2021,Time to remedy,Malfunction
+75,Related to driver behavior  ,5.0,December 2021,Time to remedy,Driver Behavior
+76,Improper use   ,7.0,December 2021,Time to remedy,Irresponsible Behavior
+77,Request for refund      ,7.0,December 2021,Time to remedy,Refund
+81,Alleged Malfunctioning Vehicle,13.0,February 2021,Time to remedy,Malfunction
+82,Alleged Malfunctioning Vehicle,47.0,February 2021,Time to remedy,Malfunction
+83,Irresponsible Rider Behavior,32.0,February 2021,Time to remedy,Irresponsible Behavior
+84,Payment Related,3.0,February 2021,Time to remedy,Refund
+85,Request for Refund,120.0,February 2021,Time to remedy,Refund
+86,Request for Refund,14.0,February 2021,Time to remedy,Refund
+90,Alleged Malfunctioning Vehicle,1.0,January 2021,Time to remedy,Malfunction
+91,Irresponsible Rider Behavior,16.0,January 2021,Time to remedy,Irresponsible Behavior
+95,Alleged malfunctioning vehicle,0.0,July 2020,Time to remedy,Malfunction
+96,Alleged payment issue,0.0,July 2020,Time to remedy,Refund
+97,Alleged irresponsible rider behavior,0.0,July 2020,Time to remedy,Irresponsible Behavior
+98,Request for refund,720.0,July 2020,Time to remedy,Refund
+102,Alleged vehicle issue,0.0,June 2020,Time to remedy,Malfunction
+103,Alleged vehicle issue,0.0,June 2020,Time to remedy,Malfunction
+104,Alleged vehicle issue,0.0,June 2020,Time to remedy,Malfunction
+105,Alleged accident,720.0,June 2020,Time to remedy,Injury/Accident
+106,Alleged injury,480.0,June 2020,Time to remedy,Injury/Accident
+107,Vehicle on Private Property,0.0,June 2020,Time to remedy,Vandalism
+108,Vehicle on Private Property,0.0,June 2020,Time to remedy,Vandalism
+112,Alleged vehicle issue,240.0,October 2020,Time to remedy,Malfunction
+113,Alleged accident,20.0,October 2020,Time to remedy,Injury/Accident
+114,Complaint around no parking zone,12.0,October 2020,Time to remedy,Parking
+115,Alleged payment issue,60.0,October 2020,Time to remedy,Refund
+116,Alleged payment issue,11.0,October 2020,Time to remedy,Refund
+117,Alleged payment issue,50.0,October 2020,Time to remedy,Refund
+121,Alleged malfunctioning vehicle,8.0,September 2020,Time to remedy,Malfunction
+122,Damage to property,9.0,September 2020,Time to remedy,Vandalism
+123,Payment related,90.0,September 2020,Time to remedy,Refund
+124,Payment related,270.0,September 2020,Time to remedy,Refund
+128,allged malfunctioning vehicle,50.0,September 2021,Time to remedy,Malfunction
+129,damage to property,180.0,September 2021,Time to remedy,Vandalism
+130,injury,18.0,September 2021,Time to remedy,Injury/Accident
+131,"""accident""",67.0,September 2021,Time to remedy,Injury/Accident
+132,Payment related,16.0,September 2021,Time to remedy,Refund
+133,Improper use,14.0,September 2021,Time to remedy,Irresponsible Behavior
+134,Vehicle on private property,28.0,September 2021,Time to remedy,Vandalism
+135,Irresponsible rider behavior,14.0,September 2021,Time to remedy,Irresponsible Behavior
+136,Request for refund,37.0,September 2021,Time to remedy,Refund
+137,Request to delete account,30.0,September 2021,Time to remedy,Account/Delete
+141,Damage to property,720.0,November 2020,Time to remedy,Vandalism
+142,Injury,15.0,November 2020,Time to remedy,Injury/Accident
+143,Complaint around no parking zone,3.0,November 2020,Time to remedy,Parking
+144,Complaint around no parking zone,3.0,November 2020,Time to remedy,Parking
+145,Request to delete account,4.0,November 2020,Time to remedy,Account/Delete
+149,Charger behavior,3.0,January 2019,Time to remedy,Malfunction
+150,Fall/Rider injury,4.0,January 2019,Time to remedy,Injury/Accident
+151,Vandalism,2.0,January 2019,Time to remedy,Vandalism
+152,Vehicle underwater,1.0,January 2019,Time to remedy,Malfunction
+153,Damaged or malfunctioning vehicle,7.0,January 2019,Time to remedy,Malfunction
+156,Fall/Rider injury,2,June 2019,Number,Injury/Accident
+157,Damage to property,1,June 2019,Number,Vandalism
+158,Vehicle(s) underwater,5,June 2019,Number,Malfunction
+159,Damaged or malfunctioning vehicle,4,June 2019,Number,Malfunction
+160,Reduced speed/no parking zone,1,June 2019,Number,Parking
+161,Charger behavior,2,June 2019,Number,Malfunction
+162,Vandalism,3,June 2019,Number,Vandalism
+163,Vehicles on private property,1,June 2019,Number,Vandalism
+166,Irresponsible rider behavior,2,May 2019,Number,Irresponsible Behavior
+167,Fall/Rider injury,4,May 2019,Number,Injury/Accident
+168,Damage to property,6,May 2019,Number,Vandalism
+169,Vehicle underwater,6,May 2019,Number,Malfunction
+170,Damaged or malfunctioning vehicle,2,May 2019,Number,Malfunction
+171,Reduced speed area,1,May 2019,Number,Vandalism
+172,Charger behavior,1,May 2019,Number,Malfunction
+173,Vandalism,2,May 2019,Number,Vandalism
+176,Irresponsible rider behavior,1,April 2019,Number,Irresponsible Behavior
+177,Fall/Rider injury,5,April 2019,Number,Injury/Accident
+178,Damage to property,1,April 2019,Number,Vandalism
+179,Vehicle underwater,2,April 2019,Number,Malfunction
+180,Damaged or malfunctioning vehicle,2,April 2019,Number,Malfunction
+181,Vehicles on private property,1,April 2019,Number,Vandalism
+184,Fall/Rider injury,2,August 2019,Number,Injury/Accident
+185,Damage to property,1,August 2019,Number,Vandalism
+186,Vandalism,1,August 2019,Number,Vandalism
+187,Damaged or malfunctioning vehicle,2,August 2019,Number,Malfunction
+188,Request for refund,1,August 2019,Number,Refund
+191,Fall/Rider injury,2,July 2019,Number,Injury/Accident
+192,Damage to property,2,July 2019,Number,Vandalism
+193,Vehicle(s) underwater,1,July 2019,Number,Malfunction
+194,Damaged or malfunctioning vehicle,1,July 2019,Number,Malfunction
+195,Vehicles on private property,1,July 2019,Number,Vandalism
+198,Rider fall/injury,3,October 2019,Number,Injury/Accident
+199,Irresponsible rider behavior,1,October 2019,Number,Irresponsible Behavior
+200,Improper use,1,October 2019,Number,Irresponsible Behavior
+201,Alleged malfunctioning vehicle,2,October 2019,Number,Malfunction
+202,Charger/driver behavior,2,October 2019,Number,Driver Behavior
+203,Submerged Vehicle,1,October 2019,Number,Malfunction
+204,Request for refund,1,October 2019,Number,Refund
+207,Rider fall/injury,5,September 2019,Number,Injury/Accident
+208,Rider fall/injury due to alleged malfunctioning vehicle,2,September 2019,Number,Malfunction
+209,Damage to property,2,September 2019,Number,Vandalism
+210,Vandalism,1,September 2019,Number,Vandalism
+211,Related to chargers,1,September 2019,Number,Malfunction
+212,Submerged Vehicle,2,September 2019,Number,Malfunction
+215,Improper placement,1,February 2019,Number,Irresponsible Behavior
+216,Fall/Rider injury,4,February 2019,Number,Injury/Accident
+217,Damage to property,1,February 2019,Number,Vandalism
+218,Vehicle underwater,4,February 2019,Number,Malfunction
+219,Damaged or malfunctioning vehicle,2,February 2019,Number,Malfunction
+222,Charger behavior,2,March 2019,Number,Malfunction
+223,Payment-related,1,March 2019,Number,Refund
+224,Fraudulent behavior,3,March 2019,Number,Vandalism
+225,Vadalism,1,March 2019,Number,Vandalism
+226,Fall/Rider injury,9,March 2019,Number,Injury/Accident
+227,Damage to property,6,March 2019,Number,Vandalism
+228,Vehicle underwater,9,March 2019,Number,Malfunction
+229,Damaged or malfunctioning vehicle,2,March 2019,Number,Malfunction
+230,Improper use,1,March 2019,Number,Irresponsible Behavior

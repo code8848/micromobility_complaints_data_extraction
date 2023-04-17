@@ -1,0 +1,7823 @@
+MONTH REGION_NAME SUBJECT CATEGORY START_LATITUDE START_LONGITUDE END_LATITUDE END_LONGITUDE
+TIMEDIFF('MINUTE',
+F.CREATED_AT,
+F.SOLVED_AT)
+11/5/2021 Austin
+Cannot access juicer
+app
+account_/_profile__
+login_issues 87
+11/29/2021 Austin
+Phone Call from:
+Caller +1 (512) 903‐
+4998
+account_/_profile__
+login_issues 12
+11/9/2021 Austin Current account
+account_/_profile__
+login_issues 64
+11/5/2021 Austin
+Phone Call from:
+Caller +1 (737) 864‐
+4511
+account_/_profile__
+login_issues 1275
+11/26/2021 Austin
+Like Account
+problems
+account_/_profile__
+login_issues 15
+11/4/2021 Austin Activation
+account_/_profile__
+login_issues 59
+11/24/2021 Austin Old account
+account_/_profile__
+login_issues 54
+11/22/2021 Austin Like payment
+account/profile__ch
+ange_account_/_ba
+nk_details 128
+11/23/2021 Austin Re: Lock Problem
+account/profile__ch
+ange_account_/_ba
+nk_details 143
+11/19/2021 Austin
+Urgent issue
+regarding dropoff
+for recent set of
+scooters.
+account/profile__ch
+ange_account_/_ba
+nk_details
+11/15/2021 Austin
+Your company has
+just taking money
+from my account...
+account/profile__ch
+ange_account_/_ba
+nk_details 172
+11/17/2021 Austin Lock Problem
+account/profile__ch
+ange_account_/_ba
+nk_details 2178
+11/14/2021 Austin 10 E error code
+account/profile__ch
+ange_account_/_ba
+nk_details 34
+11/9/2021 Austin
+Type in wrong
+scooter oh
+account/profile__ch
+ange_account_/_ba
+nk_details 31
+11/20/2021 Austin Got paid half price
+account/profile__ch
+ange_account_/_ba
+nk_details 694
+11/16/2021 Austin
+Issue scooter won't
+charge
+account/profile__ch
+ange_account_/_ba
+nk_details 317
+11/23/2021 Austin Re: Lock Problem
+account/profile__ch
+ange_account_/_ba
+nk_details 102
+11/3/2021 Austin
+Orange â€oeMoveâ€
+Tasks
+account/profile__ch
+ange_account_/_ba
+nk_details 30.262955 ‐97.742072 30.266097 ‐97.739208 1402
+11/16/2021 Austin
+Scooter not
+charging
+account/profile__ch
+ange_account_/_ba
+nk_details 78
+11/18/2021 Austin
+Was no limehubs
+manual drop off
+account/profile__ch
+ange_account_/_ba
+nk_details 405
+11/6/2021 Austin
+App not showing
+any lime bases after
+restarting only
+shows 12
+account/profile__ch
+ange_account_/_ba
+nk_details 2325
+11/13/2021 Austin
+Change my direct
+deposit
+account/profile__ch
+ange_account_/_ba
+nk_details 229
+11/27/2021 Austin
+Scooters MDHLRU
+& ETUJHH
+account/profile__ch
+ange_account_/_ba
+nk_details 8
+11/2/2021 Austin
+Re: Manual drop off
+‐ Monday October
+11th
+account/profile__ch
+ange_account_/_ba
+nk_details 1619
+11/12/2021 Austin
+Juicer Account
+Austin, Tx
+account/profile__ch
+ange_account_/_ba
+nk_details 30.26055 ‐97.74975 30.270052 ‐97.742037 728
+11/2/2021 Austin
+Re: Unpaid charge
+tasks Monday
+September 6th ‐
+manual drop off
+account/profile__ch
+ange_account_/_ba
+nk_details 2346
+11/30/2021 Austin
+Could not charge
+set of scooters
+completely
+account/profile__ch
+ange_account_/_ba
+nk_details 116
+11/27/2021 Austin E6 error
+account/profile__ch
+ange_account_/_ba
+nk_details 3445
+11/6/2021 Austin Payment
+account/profile__ch
+ange_account_/_ba
+nk_details 410
+11/10/2021 Austin Not charging
+account/profile__ch
+ange_account_/_ba
+nk_details 85
+11/12/2021 Austin Could not charge
+account/profile__ch
+ange_account_/_ba
+nk_details 203
+11/13/2021 Austin Account Closure
+account/profile__de
+leting_account 7
+11/17/2021 Austin Delete account
+account/profile__de
+leting_account 108
+11/9/2021 Austin
+I was charged for
+$20 of lime cash
+that I didnâ€™t w...
+account/profile__de
+leting_account 26
+11/14/2021 Austin
+Phone Call from:
+Caller +1 (737) 270‐
+5325
+account/profile__de
+leting_account 8
+11/17/2021 Austin Unsubscribe
+account/profile__de
+leting_account 4
+11/11/2021 Austin Delete account
+account/profile__de
+leting_account 3
+11/11/2021 Austin
+Merge my one
+account and other
+account
+account/profile__de
+leting_account 103
+11/23/2021 Austin
+I want to remove
+my card info
+account/profile__de
+leting_account 45
+11/26/2021 Austin
+close my Lime
+account
+account/profile__de
+leting_account 6
+11/22/2021 Austin Account Deletion
+account/profile__de
+leting_account 3
+11/15/2021 Austin
+Phone Call from:
+Caller +1 (724) 562‐
+4711
+account/profile__de
+leting_account 7
+11/13/2021 Austin Close account
+account/profile__de
+leting_account 9
+11/3/2021 Austin Donâ€™t need it
+account/profile__de
+leting_account 27
+11/26/2021 Austin Deleting Lime app.
+account/profile__de
+leting_account 5
+11/23/2021 Austin
+Re: I was charged
+for $20 of lime cash
+that I didnâ€™t w...
+account/profile__de
+leting_account 3
+11/7/2021 Austin
+Needing
+information about
+my juicer account
+account/profile__de
+leting_account 920
+11/30/2021 Austin Account deletion
+account/profile__de
+leting_account 135
+11/7/2021 Austin Delete account
+account/profile__de
+leting_account 6
+11/1/2021 Austin
+Please delete
+account
+account/profile__de
+leting_account 6
+11/27/2021 Austin
+Need to clear Credit
+card information
+account/profile__de
+leting_account 2804
+11/28/2021 Austin
+Would like to close
+my account
+account/profile__de
+leting_account 4
+11/19/2021 Austin
+Phone Call from:
+Caller +1 (737) 268‐
+3686
+app_issue__app_iss
+ue_/_app_unrespon
+sive 12
+11/8/2021 Austin Payment Declined
+app_issue__app_iss
+ue_/_app_unrespon
+sive 331
+11/9/2021 Austin
+I canâ€™t use my
+lime cashAnd my cc
+canâ€™t be added
+...
+app_issue__app_iss
+ue_/_app_unrespon
+sive 22
+11/1/2021 Austin Payment failed
+app_issue__app_iss
+ue_/_app_unrespon
+sive 307
+11/17/2021 Austin none available
+app_issue__app_iss
+ue_/_app_unrespon
+sive 144
+11/11/2021 Austin
+Trouble with the
+app
+app_issue__app_iss
+ue_/_app_unrespon
+sive 75
+11/19/2021 Austin
+New juicer
+questions
+app_issue__app_iss
+ue_/_app_unrespon
+sive 786
+11/1/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.270007 ‐97.731675 30.267955 ‐97.742583 235
+11/15/2021 Austin
+Phone Call from:
+Caller +1 (815) 507‐
+4488
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.2602 ‐97.738766 30.255523 ‐97.739167 3
+11/24/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.2902 ‐97.730995 30.28927 ‐97.7328 216
+11/24/2021 Austin
+Phone Call from:
+Caller +1 (901) 305‐
+2426
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.2902 ‐97.730995 30.28927 ‐97.7328 5
+11/21/2021 Austin
+Ik kon mijn rit niet
+beÃ«indigen
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.272357 ‐97.750929 30.258333 ‐97.746809 83
+11/2/2021 Austin
+I tried ending my
+ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.264407 ‐97.748746 30.266291 ‐97.736335 1023
+11/9/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.261872 ‐97.739641 30.251697 ‐97.735611 4
+11/13/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.294341 ‐97.736588 30.304161 ‐97.728826 143
+11/11/2021 Austin
+I was charged
+incorrectly
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.26185 ‐97.722433 30.257752 ‐97.738632 134
+11/13/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.231173 ‐97.787913 30.245373 ‐97.768997 180
+11/13/2021 Austin Unable to end ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.267048 ‐97.750075 30.264374 ‐97.744133 183
+11/23/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.265853 ‐97.749475 30.263831 ‐97.745071 30
+11/12/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.265384 ‐97.748974 30.265066 ‐97.744809 251
+11/5/2021 Austin
+Phone Call from:
+Caller +1 (513) 570‐
+1904
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.269389 ‐97.747396 30.267556 ‐97.740838 13
+11/16/2021 Austin
+Phone Call from:
+Caller +1 (617) 584‐
+2315
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.28369 ‐97.745261 30.26562 ‐97.747657 5
+11/5/2021 Austin
+Phone Call from:
+Caller +1 (773) 710‐
+6454
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.270693 ‐97.73424 30.263475 ‐97.726502 2
+11/2/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.283748 ‐97.742156 30.290396 ‐97.749894 216
+11/14/2021 Austin
+Phone Call from:
+Caller +1 (843) 530‐
+2692
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.260438 ‐97.738809 30.258119 ‐97.739122 2
+11/14/2021 Austin
+The bike will not let
+me end the session
+and I tri...
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.260438 ‐97.738809 30.258119 ‐97.739122 110
+11/16/2021 Austin
+Phone Call from:
+Caller +1 (515) 418‐
+8338
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.266553 ‐97.733359 30.26647 ‐97.738387 7
+11/5/2021 Austin
+I couldn't start my
+trip
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.266249 ‐97.75478 30.269972 ‐97.750658 331
+11/19/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.28498 ‐97.742168 30.268638 ‐97.742609 143
+11/14/2021 Austin
+Phone Call from:
+Caller +1 (346) 779‐
+4692
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.288159 ‐97.747925 30.283982 ‐97.742646 4
+11/30/2021 Austin
+Phone Call from:
+Caller +1 (505) 315‐
+3393
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.263161 ‐97.743845 30.266062 ‐97.755049 3
+11/30/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.266878 ‐97.749891 30.264361 ‐97.740282 78
+11/10/2021 Austin Never again
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.279459 ‐97.722964 30.278276 ‐97.729117 146
+11/18/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.266949 ‐97.742686 30.267201 ‐97.743027 94
+11/5/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.272923 ‐97.757336 30.26036 ‐97.73861 389
+11/3/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.267285 ‐97.741601 30.265498 ‐97.738965 5
+11/4/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.279535 ‐97.734766 30.27834 ‐97.729134 234
+11/14/2021 Austin
+Phone Call from:
+Caller +1 (915) 731‐
+9845
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.268972 ‐97.742395 30.265026 ‐97.739234 3
+11/24/2021 Austin
+Phone Call from:
+Lime Rider
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.301589 ‐97.720482 30.301592 ‐97.720522 4
+11/24/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.301589 ‐97.720482 30.301592 ‐97.720522 230
+11/20/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.267893 ‐97.736682 30.26653 ‐97.74491 111
+11/12/2021 Austin
+I was charged
+incorrectly
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.267529 ‐97.744433 30.264887 ‐97.73773 179
+11/21/2021 Austin
+Phone Call from:
+Michael Funaro
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.273437 ‐97.738735 30.270042 ‐97.739329 3
+11/20/2021 Austin
+Phone Call from:
+Caller +1 (713) 440‐
+8636
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.280151 ‐97.736714 30.250958 ‐97.749268 2
+11/5/2021 Austin I want a refund
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.269506 ‐97.742767 30.269778 ‐97.742287 63
+11/26/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.270067 ‐97.748588 30.269433 ‐97.747774 72
+11/9/2021 Austin
+Fwd: Receipt for
+your Lime ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.25898 ‐97.751938 30.25898 ‐97.751938 92
+11/12/2021 Austin
+I couldn't start my
+trip
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.264103 ‐97.733007 30.26393 ‐97.7324 105
+11/4/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.289606 ‐97.74926 30.28884 ‐97.74193 117
+11/2/2021 Austin
+Over charged for
+ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.26421 ‐97.729481 30.26007 ‐97.738504 9
+11/11/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.262721 ‐97.738616 30.266026 ‐97.741007 129
+11/15/2021 Austin It wonâ€™t lock
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.269041 ‐97.74648 30.267958 ‐97.741669 96
+11/30/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.262425 ‐97.724543 30.259543 ‐97.711987 21
+11/30/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.262425 ‐97.724543 30.259543 ‐97.711987 20
+11/30/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.262425 ‐97.724543 30.259543 ‐97.711987 17
+11/1/2021 Austin
+Extremely
+Unsatisfied With
+Service
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 862
+11/6/2021 Austin
+Phone Call from:
+Caller +1 (225) 276‐
+0316
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.262084 ‐97.739389 30.26295 ‐97.74209 5
+11/13/2021 Austin
+Phone Call from:
+Caller +1 (513) 307‐
+9174
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.267743 ‐97.742709 30.259486 ‐97.753458 6
+11/14/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.290564 ‐97.756993 30.284946 ‐97.744347 9
+11/14/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.26916 ‐97.742511 30.265124 ‐97.738903 84
+11/24/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.272173 ‐97.738551 30.27578 ‐97.74243 156
+11/2/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.268561 ‐97.739989 30.268803 ‐97.739964 14
+11/25/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.265715 ‐97.738127 30.26041 ‐97.739418 5
+11/19/2021 Austin
+Won't turn off even
+though it's in zone
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.290598 ‐97.742162 30.279538 ‐97.734663 159
+11/18/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.263202 ‐97.744865 30.254106 ‐97.746717 139
+11/24/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.294613 ‐97.783742 30.28828 ‐97.78121 205
+11/20/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.284017 ‐97.74334 30.281166 ‐97.740493 90
+11/30/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.268858 ‐97.731839 30.269602 ‐97.748093 85
+11/10/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.284095 ‐97.742295 122
+11/7/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.245255 ‐97.751177 30.247189 ‐97.750029 11
+11/6/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.264636 ‐97.739995 30.27881 ‐97.735504 329
+11/8/2021 Austin
+Phone Call from:
+Caller +1 (281) 677‐
+7503
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.272018 ‐97.738414 30.273059 ‐97.741573 3
+11/28/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.263534 ‐97.745572 30.263367 ‐97.745156 70
+11/21/2021 Austin Wonâ€™t turn off
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 178
+11/8/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.267122 ‐97.754853 30.266365 ‐97.733923 51
+11/10/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.263072 ‐97.726452 30.261592 ‐97.710874 9
+11/17/2021 Austin
+These codes
+donâ€™t work and I
+canâ€™t end the
+ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.261995 ‐97.739479 30.267619 ‐97.739252 160
+11/19/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.250978 ‐97.749237 30.263176 ‐97.744518 174
+11/3/2021 Austin
+Phone Call from:
+Caller +1 (702) 408‐
+7979
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.27208 ‐97.741195 30.26006 ‐97.73858 7
+11/25/2021 Austin
+Phone Call from:
+Text user:
++12315982404
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.265807 ‐97.741483 30.268567 ‐97.742358 3
+11/28/2021 Austin Cant end ride.
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.26555 ‐97.747904 30.251055 ‐97.749262 60
+11/18/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.264894 ‐97.738965 30.261588 ‐97.72258 106
+11/24/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.253289 ‐97.748234 30.2443 ‐97.75146 161
+11/1/2021 Austin My Ride Yesterday
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.266468 ‐97.748521 30.265078 ‐97.737841 323
+11/23/2021 Austin
+I was charged
+incorrectly
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.26747 ‐97.751707 30.267442 ‐97.751843 140
+11/23/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.288708 ‐97.746814 30.289404 ‐97.748363 154
+11/16/2021 Austin
+Phone Call from:
+Caller +1 (512) 810‐
+9732
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.281521 ‐97.760743 30.279577 ‐97.734463 8
+11/11/2021 Austin
+I had an incorrect
+charge
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.256883 ‐97.746721 30.2681 ‐97.74272 162
+11/2/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.262306 ‐97.725103 30.266938 ‐97.738506 31
+11/10/2021 Austin
+Phone Call from:
+Jetemy Santos
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.26646 ‐97.74496 30.26686 ‐97.733795 3
+11/11/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.265054 ‐97.738084 30.266935 ‐97.7332 135
+11/13/2021 Austin
+I was charged
+incorrectly
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.258761 ‐97.74656 30.268562 ‐97.744588 4353
+11/4/2021 Austin
+Phone Call from:
+Caller +1 (609) 313‐
+0297
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 4
+11/13/2021 Austin Charge will not end
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.268567 ‐97.739335 30.268361 ‐97.740276 202
+11/14/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.279455 ‐97.74119 30.26887 ‐97.740985 181
+11/20/2021 Austin
+Phone Call from:
+Caller +1 (919) 637‐
+7537
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.258787 ‐97.738768 30.265737 ‐97.750375 2
+11/6/2021 Austin
+Phone Call from:
+Caller +1 (435) 669‐
+0887
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.271545 ‐97.747785 30.27475 ‐97.742254 2
+11/23/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.199099 ‐97.772894 30.199148 ‐97.772864 123
+11/5/2021 Austin
+Phone Call from:
+Caller +1 (804) 380‐
+2402
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 3
+11/7/2021 Austin
+Phone Call from:
+Caller +1 (504) 884‐
+2696
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.263362 ‐97.744647 30.279384 ‐97.741019 3
+11/2/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.290644 ‐97.744508 30.288635 ‐97.747728 257
+11/5/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.269036 ‐97.740857 30.264593 ‐97.742891 5
+11/2/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.287095 ‐97.741678 30.290063 ‐97.747608 249
+11/13/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.252551 ‐97.701216 30.263555 ‐97.727827 305
+11/10/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.281722 ‐97.742467 30.285064 ‐97.742564 73
+11/20/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.279236 ‐97.73514 30.281975 ‐97.742318 249
+11/2/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.268876 ‐97.743583 30.265368 ‐97.73996 57
+11/19/2021 Austin
+Phone Call from:
+Caller +1 (513) 444‐
+7049
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.258825 ‐97.739033 30.265245 ‐97.743881 5
+11/8/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.289925 ‐97.743075 30.284915 ‐97.744772 170
+11/14/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.256693 ‐97.747257 30.269046 ‐97.74801 8
+11/6/2021 Austin
+Phone Call from:
+Text user:
++15128840354
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 3
+11/12/2021 Austin
+Phone Call from:
+Caller +1 (512) 542‐
+1218
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 6
+11/2/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.258462 ‐97.704867 30.278773 ‐97.728343 311
+11/5/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___app_b
+ug 30.260383 ‐97.738992 30.28341 ‐97.746337 466
+11/18/2021 Austin
+Phone Call from:
+Caller +1 (737) 881‐
+4711
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.259999 ‐97.741189 30.259448 ‐97.740517 6
+11/4/2021 Austin
+Phone Call from:
+Caller +1 (321) 614‐
+4583
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.266974 ‐97.738179 30.262745 ‐97.742926 4
+11/6/2021 Austin Ride will not end
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.265022 ‐97.738828 30.265067 ‐97.738837 357
+11/14/2021 Austin
+Phone Call from:
+Caller +1 (432) 813‐
+1680
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.261124 ‐97.742736 30.272788 ‐97.741036 2
+11/6/2021 Austin
+Re: Receipt for your
+Lime ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.261501 ‐97.722422 30.268045 ‐97.742123 1400
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.26207 ‐97.739057 30.291923 ‐97.724295 195
+11/19/2021 Austin
+I was charged
+incorrectly
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.277099 ‐97.729228 30.279478 ‐97.724173 338
+11/11/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.264844 ‐97.731836 30.266386 ‐97.737331 4
+11/11/2021 Austin
+Phone Call from:
+Caller +1 (425) 533‐
+4267
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.290007 ‐97.741547 30.26791 ‐97.73886 3
+11/29/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.265492 ‐97.769181 30.264901 ‐97.764857 128
+11/5/2021 Austin
+The app stop
+working suddenly
+and I couldnâ€™t
+use the 24 hours
+ride that I paid for
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.268878 ‐97.744565 30.274297 ‐97.742333 109
+11/13/2021 Austin
+i stopped riding and
+went to everywhere
+for it to park and
+nothing worked
+even when i looked
+on the map to
+where i could park
+and nothing worked
+and i
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.281814 ‐97.743814 30.283514 ‐97.737119 297
+11/1/2021 Austin
+That ride was
+bullshit. Had to
+push scooter over
+a...
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.259778 ‐97.7545 30.26358 ‐97.74582 31
+11/14/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.260905 ‐97.737809 30.26627 ‐97.740585 5
+11/18/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.260384 ‐97.738747 30.264891 ‐97.736613 855
+11/12/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.258062 ‐97.705075 30.268645 ‐97.740578 23
+11/12/2021 Austin
+Phone Call from:
+Caller +1 (405) 473‐
+5216
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.266595 ‐97.755358 30.267485 ‐97.747214 3
+11/2/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.265836 ‐97.741896 30.258028 ‐97.739057 279
+11/21/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.260145 ‐97.73856 30.266406 ‐97.738625 150
+11/12/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.269514 ‐97.747977 30.268162 ‐97.739709 171
+11/14/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.279818 ‐97.73566 30.280198 ‐97.734616 123
+11/27/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.269349 ‐97.747321 30.266926 ‐97.74059 137
+11/1/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.267287 ‐97.738538 30.28827 ‐97.724118 316
+11/16/2021 Austin
+Phone Call from:
+Caller +1 (512) 810‐
+9732
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 3
+11/17/2021 Austin Speed
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 240
+11/10/2021 Austin Illegal Parking
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.279459 ‐97.722964 30.278276 ‐97.729117 9
+11/14/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.269627 ‐97.749526 30.267127 ‐97.739416 130
+11/20/2021 Austin
+I am outside of the
+no parking zone
+indicated by the
+map, but the app
+won't allow me to
+end my ride.
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.265759 ‐97.738605 30.265085 ‐97.739033 53
+11/10/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.261154 ‐97.737853 30.266936 ‐97.745409 8
+11/9/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.270291 ‐97.748413 30.268293 ‐97.735996 3
+11/2/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.26428 ‐97.73285 30.257921 ‐97.739481 158
+11/15/2021 Austin
+Overcharged for
+ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.265394 ‐97.743932 30.268935 ‐97.738073 107
+11/28/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.274124 ‐97.742454 30.281535 ‐97.741733 7
+11/5/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.270156 ‐97.749696 30.262885 ‐97.743255 12
+11/5/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.26318 ‐97.75415 30.263451 ‐97.745804 220
+11/2/2021 Austin
+I was charged
+incorrectly
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.266363 ‐97.743454 30.26755 ‐97.737423 190
+11/1/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.261699 ‐97.722679 30.25637 ‐97.73804 263
+11/5/2021 Austin
+Phone Call from:
+Caller +1 (469) 919‐
+2036
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.262506 ‐97.738643 30.26244 ‐97.743269 5
+11/15/2021 Austin
+Damaged lime
+vehicle
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.274619 ‐97.742238 30.274597 ‐97.742315 408
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.290356 ‐97.7415 30.289424 ‐97.734456 141
+11/30/2021 Austin
+Phone Call from:
+Caller +1 (713) 885‐
+8473
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.283271 ‐97.736488 30.281696 ‐97.735149 5
+11/18/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.262338 ‐97.742332 30.266253 ‐97.743408 15
+11/20/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.265791 ‐97.740878 30.260265 ‐97.738556 30
+11/20/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.284291 ‐97.737349 30.28946 ‐97.73442 113
+11/7/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.266707 ‐97.738021 30.266328 ‐97.737986 146
+11/23/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.267845 ‐97.742424 30.266936 ‐97.73885 10
+11/19/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.268708 ‐97.742805 30.268696 ‐97.742585 225
+11/1/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.276763 ‐97.735941 30.275742 ‐97.734989 18
+11/13/2021 Austin Cannot and my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.262532 ‐97.738506 30.279493 ‐97.734463 576
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.260457 ‐97.73945 30.262994 ‐97.744966 189
+11/7/2021 Austin
+Mi vehÃ‐culo estÃ¡
+daÃ±ado o dejÃ³ de
+funcionar
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.263136 ‐97.744751 30.263103 ‐97.744558 22
+11/12/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.288559 ‐97.747833 30.27852 ‐97.73057 11
+11/1/2021 Austin
+Phone Call from:
+Caller +1 (737) 932‐
+5952
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.287616 ‐97.724777 30.287118 ‐97.727023 5
+11/4/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.277761 ‐97.741745 30.279564 ‐97.734697 133
+11/13/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.269644 ‐97.749596 30.266273 ‐97.740597 248
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.269644 ‐97.749596 30.266273 ‐97.740597 259
+11/13/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.269644 ‐97.749596 30.266273 ‐97.740597 245
+11/4/2021 Austin
+Bike did not
+accelerate
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 994
+11/5/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.265135 ‐97.762062 30.26332 ‐97.743204 394
+11/4/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.264127 ‐97.743168 30.26916 ‐97.74092 126
+11/1/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.255754 ‐97.739959 30.25394 ‐97.73842 264
+11/15/2021 Austin
+Re: Re: Re: I was
+unable to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.263941 ‐97.744444 30.266259 ‐97.739874 1022
+11/4/2021 Austin
+Re: I was unable to
+end my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.263941 ‐97.744444 30.266259 ‐97.739874 40
+11/9/2021 Austin
+Re: Re: I was unable
+to end my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.263941 ‐97.744444 30.266259 ‐97.739874 132
+11/18/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.260731 ‐97.738116 30.26558 ‐97.73996 20
+11/4/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.279413 ‐97.741419 30.258816 ‐97.738935 6
+11/4/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.279413 ‐97.741419 30.258816 ‐97.738935 10
+11/15/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.289698 ‐97.771787 30.288567 ‐97.76951 75
+11/13/2021 Austin
+Could not end my
+ride and was
+charged for two
+bikes
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.269399 ‐97.74093 30.274398 ‐97.738406 287
+11/6/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.269842 ‐97.735997 30.259294 ‐97.738568 740
+11/4/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.264425 ‐97.733688 30.259521 ‐97.7383 262
+11/1/2021 Austin Canâ€™t end ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.266819 ‐97.738585 30.266842 ‐97.738656 234
+11/24/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.287699 ‐97.742449 30.266345 ‐97.721544 247
+11/14/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.277629 ‐97.735284 30.26546 ‐97.731858 86
+11/12/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.270036 ‐97.731668 30.266613 ‐97.739593 195
+11/1/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.269775 ‐97.742094 30.259952 ‐97.738624 4
+11/6/2021 Austin
+Phone Call from:
+Caller +1 (561) 319‐
+2539
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.272148 ‐97.755438 30.267239 ‐97.740397 5
+11/1/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.266617 ‐97.738333 30.287638 ‐97.724917 152
+11/5/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.25239 ‐97.734306 30.252464 ‐97.734063 417
+11/13/2021 Austin
+I couldn't start my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.279608 ‐97.734819 30.27956 ‐97.73471 113
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.279608 ‐97.734819 30.27956 ‐97.73471 115
+11/17/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.267209 ‐97.739408 30.269303 ‐97.742161 27
+11/9/2021 Austin
+Phone Call from:
+Caller +1 (201) 602‐
+7800
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.268577 ‐97.739022 30.266851 ‐97.738614 4
+11/11/2021 Austin
+â€oeNo Parking
+Zoneâ€
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.268097 ‐97.742304 30.26596 ‐97.738163 105
+11/7/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.268377 ‐97.742779 30.268928 ‐97.740805 256
+11/16/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.269147 ‐97.742502 30.263231 ‐97.744835 157
+11/19/2021 Austin
+Phone Call from:
+Caller +44 7976
+959497
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.260485 ‐97.739337 30.268069 ‐97.742546 3
+11/15/2021 Austin
+Phone Call from:
+Caller +1 (737) 864‐
+4511
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.252241 ‐97.737117 30.25256 ‐97.737246 8
+11/13/2021 Austin
+Phone Call from:
+Caller +1 (352) 322‐
+6451
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.268986 ‐97.746101 30.266621 ‐97.737152 3
+11/7/2021 Austin
+Phone Call from:
+Caller +1 (816) 799‐
+3850
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.274247 ‐97.742569 30.281363 ‐97.740523 5
+11/4/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.269652 ‐97.753019 30.264865 ‐97.737961 253
+11/13/2021 Austin
+Phone Call from:
+Lime Rider
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.254542 ‐97.742575 30.251724 ‐97.741044 4
+11/1/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.26453 ‐97.733986 30.256081 ‐97.739324 104
+11/13/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.279679 ‐97.734046 30.279291 ‐97.733535 254
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.251763 ‐97.74033 30.248586 ‐97.734729 253
+11/1/2021 Austin
+Phone Call from:
+Lime Rider
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.271305 ‐97.741392 30.268767 ‐97.740483 8
+11/1/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.267516 ‐97.755138 30.266434 ‐97.756377 102
+11/6/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.266986 ‐97.738805 30.266391 ‐97.738428 431
+11/6/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.261243 ‐97.737203 30.262981 ‐97.74492 89
+11/24/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.280317 ‐97.736644 30.277464 ‐97.733108 255
+11/16/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.297661 ‐97.746123 30.283842 ‐97.742478 173
+11/12/2021 Austin
+The fucking thing
+wonâ€™t let me
+end my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.26655 ‐97.733314 30.260529 ‐97.739325 212
+11/21/2021 Austin
+Il mio veicolo era
+guasto o ha smesso
+di funzionare
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.279444 ‐97.734718 30.279534 ‐97.734704 27
+11/10/2021 Austin Charged
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 141
+11/13/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.278162 ‐97.73522 30.276775 ‐97.735766 539
+11/13/2021 Austin
+Phone Call from:
+Caller +1 (210) 710‐
+7789
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.278162 ‐97.73522 30.276775 ‐97.735766 5
+11/2/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.263452 ‐97.745086 30.267452 ‐97.741464 303
+11/20/2021 Austin
+Phone Call from:
+Caller +1 (832) 605‐
+4279
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.262236 ‐97.72464 30.267545 ‐97.736841 2
+11/1/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.266698 ‐97.745859 30.266049 ‐97.738091 3
+11/5/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.265892 ‐97.742239 30.282004 ‐97.742601 490
+11/1/2021 Austin
+Phone Call from:
+Caller +1 (956) 559‐
+5745
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 9
+11/1/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.288616 ‐97.729159 30.280859 ‐97.733369 118
+11/7/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.266508 ‐97.750313 30.266417 ‐97.73899 233
+11/14/2021 Austin
+Re: Receipt for your
+Lime ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.279399 ‐97.734446 30.278736 ‐97.730581 181
+11/5/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.266225 ‐97.745974 30.26601 ‐97.740724 420
+11/17/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.26907 ‐97.747149 30.264476 ‐97.736783 125
+11/19/2021 Austin Canâ€™t end ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.28518 ‐97.7416 30.284931 ‐97.741483 235
+11/4/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.285737 ‐97.741807 30.279812 ‐97.739813 264
+11/19/2021 Austin
+Re: Receipt for your
+Lime ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.266669 ‐97.738146 30.266646 ‐97.738478 22
+11/24/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.295302 ‐97.742395 30.28366 ‐97.74202 270
+11/28/2021 Austin End ride function
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.271016 ‐97.735635 30.266187 ‐97.737638 34
+11/29/2021 Austin Fwd: Lime Ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 177
+11/9/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.265911 ‐97.745985 30.250973 ‐97.735553 6
+11/6/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.266995 ‐97.743038 30.258458 ‐97.73839 423
+11/19/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.265974 ‐97.740834 30.265927 ‐97.734871 107
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_end_trip/lo
+ck_vehicle___nolock_
+zone 30.258287 ‐97.738886 30.27706 ‐97.73557 336
+11/11/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.26084 ‐97.73804 30.266469 ‐97.739185 162
+11/6/2021 Austin Will not turn off
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.268943 ‐97.749879 30.269827 ‐97.750845 353
+11/4/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.258688 ‐97.738938 30.265403 ‐97.738501 70
+11/12/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.259555 ‐97.738492 30.25916 ‐97.74872 104
+11/15/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.283436 ‐97.746783 113
+11/5/2021 Austin Broken Device
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.269749 ‐97.74863 30.267108 ‐97.738853 453
+11/6/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.289562 ‐97.747479 30.294716 ‐97.737342 357
+11/26/2021 Austin
+Phone Call from:
+Caller +1 (832) 296‐
+9252
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.291129 ‐97.744047 30.303046 ‐97.76409 5
+11/25/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.28257 ‐97.744429 30.268982 ‐97.743445 48
+11/28/2021 Austin
+I canâ€™t end the
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 43
+11/25/2021 Austin
+Phone Call from:
+Caller +1 (909) 952‐
+7557
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 3
+11/5/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.263301 ‐97.730988 30.268994 ‐97.741206 468
+11/18/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.275721 ‐97.737278 30.260523 ‐97.739535 113
+11/5/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.269389 ‐97.747396 30.267556 ‐97.740838 256
+11/9/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.255209 ‐97.761942 30.26626 ‐97.75487 68
+11/16/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.258225 ‐97.746521 30.280434 ‐97.737494 152
+11/15/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.261276 ‐97.738063 30.269776 ‐97.749045 4
+11/14/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.257118 ‐97.724333 30.248548 ‐97.728312 5
+11/23/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.265411 ‐97.746353 30.26646 ‐97.739615 94
+11/19/2021 Austin
+Phone Call from:
+Caller +1 (432) 788‐
+9044
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 2
+11/14/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.287203 ‐97.746048 30.287567 ‐97.74171 81
+11/15/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.286269 ‐97.741744 30.283624 ‐97.740027 83
+11/2/2021 Austin
+Phone Call from:
+Lime Rider
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.265651 ‐97.740938 30.25924 ‐97.738455 5
+11/10/2021 Austin
+Scooter wonâ€™t
+park next to other
+limes
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.251653 ‐97.707517 30.265939 ‐97.738306 88
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.245885 ‐97.731057 30.229854 ‐97.781962 14817
+11/12/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.267747 ‐97.751836 30.264782 ‐97.746669 18
+11/30/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.258062 ‐97.739119 30.251027 ‐97.749057 69
+11/30/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.308327 ‐97.717493 30.308393 ‐97.717392 101
+11/14/2021 Austin
+Canâ€™t end my
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 2
+11/17/2021 Austin Issue with scooter
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 71
+11/20/2021 Austin Phone died
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 186
+11/6/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.260503 ‐97.758459 30.253798 ‐97.763161 329
+11/13/2021 Austin Cannot cancel ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 636
+11/5/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 42.962176 ‐85.670425 524
+11/23/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.293408 ‐97.741615 30.291957 ‐97.738665 56
+11/8/2021 Austin Charge Dispute
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.260717 ‐97.729964 30.266878 ‐97.738392 29
+11/19/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.265843 ‐97.739874 30.270088 ‐97.731838 25
+11/10/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.292644 ‐97.736474 30.289852 ‐97.736682 125
+11/13/2021 Austin
+Phone Call from:
+Caller +1 (682) 564‐
+4598
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.264987 ‐97.738751 30.266887 ‐97.746688 3
+11/6/2021 Austin Unable to end ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.269316 ‐97.76896 30.263262 ‐97.744393 38
+11/21/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.256974 ‐97.739249 30.262934 ‐97.743146 180
+11/16/2021 Austin Incorrect Receipt
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.261093 ‐97.737374 30.260154 ‐97.73867 168
+11/20/2021 Austin
+Phone Call from:
+Caller +1 (682) 331‐
+5549
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.2672 ‐97.73469 30.266961 ‐97.738895 9
+11/29/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.258766 ‐97.74775 30.253554 ‐97.748381 344
+11/1/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.259037 ‐97.747163 30.260608 ‐97.739682 20
+11/6/2021 Austin Lime wont work
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.267074 ‐97.739042 30.266007 ‐97.741025 415
+11/4/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.260269 ‐97.755696 30.253427 ‐97.759056 276
+11/13/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.285487 ‐97.745713 194
+11/15/2021 Austin Trip on 11/13
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.279823 ‐97.735869 30.261239 ‐97.739076 131
+11/19/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.2652 ‐97.743227 30.271399 ‐97.741018 140
+11/14/2021 Austin
+Scooter stolen by
+homeless person
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.266214 ‐97.743491 30.26646 ‐97.736035 50
+11/2/2021 Austin
+Phone Call from:
+Caller +1 (309) 229‐
+8393
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.25598 ‐97.739769 30.257782 ‐97.73916 7
+11/25/2021 Austin
+Purchased incorrect
+and request refund
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 59
+11/4/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.257997 ‐97.738959 376
+11/7/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.283786 ‐97.742645 312
+11/11/2021 Austin
+Phone Call from:
+Caller +1 (215) 730‐
+3311
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.267229 ‐97.739972 30.267018 ‐97.739505 3
+11/17/2021 Austin
+Phone Call from:
+Caller +1 (737) 864‐
+4511
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.237613 ‐97.741775 30.220497 ‐97.753515 3
+11/19/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.264885 ‐97.740102 30.266998 ‐97.736371 147
+11/1/2021 Austin
+Phone Call from:
+Caller +1 (949) 482‐
+9467
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.263449 ‐97.743963 30.258482 ‐97.738693 6
+11/12/2021 Austin
+Phone Call from:
+Caller +1 (520) 981‐
+3722
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 6
+11/24/2021 Austin
+Ride pass and bike
+had flat tire.
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 209
+11/9/2021 Austin
+I was charged
+incorrectly
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.293573 ‐97.742738 30.282972 ‐97.741921 2
+11/9/2021 Austin Canâ€™t end a ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.249969 ‐97.749569 30.272606 ‐97.740873 241
+11/27/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.269992 ‐97.751019 30.263766 ‐97.759332 16
+11/1/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.268366 ‐97.738771 30.267011 ‐97.739076 150
+11/7/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.258281 ‐97.750699 30.255745 ‐97.762465 14
+11/1/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.270231 ‐97.75046 30.293056 ‐97.741792 138
+11/13/2021 Austin
+Phone Call from:
+Caller +1 (956) 525‐
+2670
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 6
+11/20/2021 Austin
+Phone broke & cant
+end ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 266
+11/16/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.272029 ‐97.731385 30.273207 ‐97.730935 146
+11/17/2021 Austin Lock Problem
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.276467 ‐97.737157 30.261103 ‐97.721202 4
+11/13/2021 Austin
+Phone Call from:
+Caller +1 (631) 379‐
+5361
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.270749 ‐97.740199 30.27162 ‐97.739852 2
+11/12/2021 Austin
+The ride
+wouldnâ€™t end
+and I was outside of
+the red zone
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.269819 ‐97.748341 30.278193 ‐97.743968 343
+11/10/2021 Austin
+Phone Call from:
+Caller +1 (737) 864‐
+4511
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.237712 ‐97.754873 30.247112 ‐97.769652 3
+11/5/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.268284 ‐97.743188 30.266973 ‐97.741137 9
+11/10/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.253269 ‐97.764864 30.24851 ‐97.77002 4
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 240
+11/2/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.283906 ‐97.743727 30.289173 ‐97.747463 2
+11/5/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.266204 ‐97.739869 30.266231 ‐97.737883 102
+11/2/2021 Austin
+Someone took off
+with my bike
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 98
+11/17/2021 Austin
+Phone Call from:
+Caller +1 (512) 214‐
+4106
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.266283 ‐97.744134 30.266669 ‐97.737663 14
+11/5/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.262066 ‐97.738714 30.254102 ‐97.73847 344
+11/7/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.265477 ‐97.740633 30.262892 ‐97.743061 250
+11/22/2021 Austin
+Phone Call from:
+Caller +1 (210) 707‐
+3117
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.265142 ‐97.739022 30.262535 ‐97.741901 2
+11/19/2021 Austin
+Canâ€™t end ride
+your
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.265143 ‐97.739333 30.265422 ‐97.73914 125
+11/13/2021 Austin
+Phone Call from:
+Harry Polen Polen
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.278769 ‐97.735092 30.281936 ‐97.739148 2
+11/5/2021 Austin
+Re: Charged
+incorrectly
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 279
+11/6/2021 Austin
+My wife canâ€™t
+log off her ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 363
+11/13/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.293731 ‐97.735519 30.290396 ‐97.734878 292
+11/27/2021 Austin
+Phone Call from:
+Caller +1 (512) 461‐
+9662
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.261595 ‐97.738071 30.262241 ‐97.741017 4
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.270163 ‐97.750226 30.27011 ‐97.750476 198
+11/4/2021 Austin
+Phone Call from:
+Caller +1 (321) 947‐
+3153
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.266796 ‐97.738002 30.266143 ‐97.738718 6
+11/13/2021 Austin
+Phone Call from:
+Caller +1 (845) 718‐
+6444
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.269772 ‐97.749174 30.290563 ‐97.744488 3
+11/1/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.26345 ‐97.757622 30.254208 ‐97.766894 36
+11/20/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.262236 ‐97.72464 30.267545 ‐97.736841 239
+11/17/2021 Austin Ending ride issue
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.271658 ‐97.735457 30.279686 ‐97.735123 12
+11/17/2021 Austin
+Phone Call from:
+Caller +1 (512) 865‐
+1747
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.2662 ‐97.744162 30.266541 ‐97.739463 8
+11/13/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.281302 ‐97.740842 30.28001 ‐97.73599 313
+11/21/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.265057 ‐97.742536 30.26341 ‐97.743909 15
+11/11/2021 Austin
+Phone Call from:
+Caller +1 (951) 823‐
+9766
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.25721 ‐97.746692 30.255828 ‐97.747543 3
+11/15/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.249118 ‐97.749521 30.243201 ‐97.741276 95
+11/13/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.290856 ‐97.747746 52
+11/21/2021 Austin I cannot end ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.256944 ‐97.746745 30.258123 ‐97.73905 15
+11/6/2021 Austin
+Unable to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 390
+11/4/2021 Austin
+Phone Call from:
+Caller +1 (781) 901‐
+6529
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.258701 ‐97.746464 30.259779 ‐97.754353 5
+11/13/2021 Austin
+Phone Call from:
+Caller +1 (770) 595‐
+2357
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.275719 ‐97.736084 30.268281 ‐97.742764 2
+11/4/2021 Austin
+It wonâ€™t let me
+park my scooter
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.262562 ‐97.744522 30.263106 ‐97.744064 30
+11/28/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.26568 ‐97.747891 30.262127 ‐97.741241 16
+11/19/2021 Austin
+Phone Call from:
+Caller +1 (832) 364‐
+0386
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 1
+11/2/2021 Austin
+Phone Call from:
+Caller +1 (512) 446‐
+9024
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 1
+11/7/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.26686 ‐97.741822 30.267893 ‐97.74244 144
+11/2/2021 Austin
+Phone Call from:
+Caller +1 (210) 718‐
+2718
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.283998 ‐97.742892 30.283619 ‐97.740268 4
+11/9/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.274346 ‐97.742325 30.275617 ‐97.742141 176
+11/13/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.269179 ‐97.739911 30.267474 ‐97.735933 315
+11/11/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.267567 ‐97.739821 30.265606 ‐97.739816 163
+11/26/2021 Austin
+I was unable to end
+my ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.280312 ‐97.737378 30.280431 ‐97.734342 141
+11/13/2021 Austin
+Kept tellling me I
+was parked in an
+improper area. I
+rode blocks away to
+change and the mad
+wouldnâ€™t
+change. I was done
+riding after 3 and
+half min
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 280
+11/3/2021 Austin
+I couldn't end my
+trip
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.264092 ‐97.729494 30.266247 ‐97.738972 29
+11/2/2021 Austin
+I had an incorrect
+charge
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.25442 ‐97.748052 30.26332 ‐97.74431 19
+11/3/2021 Austin
+I forgot to end my
+ride
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.265732 ‐97.737886 30.26734 ‐97.744148 3
+11/13/2021 Austin
+Phone Call from:
+Caller +1 (806) 786‐
+3400
+cannot_end_trip/lo
+ck_vehicle___not_e
+nough_details 30.2698 ‐97.748356 30.262716 ‐97.74216 7
+11/11/2021 Austin
+I couldn't end my
+trip
+cannot_start_trip__
+approval_issue 141
+11/5/2021 Austin
+Phone Call from:
+Caller +1 (904) 238‐
+7116
+cannot_start_trip__
+approval_issue 30.261874 ‐97.739377 30.261936 ‐97.739296 9
+11/14/2021 Austin
+Charged with no use
+of scooter
+cannot_unlock_vehi
+cle___app_issue 30.252264 ‐97.741646 30.25225 ‐97.74166 229
+11/23/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle___app_issue 30.274397 ‐97.742298 30.274092 ‐97.74257 53
+11/26/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle___app_issue 30.267754 ‐97.75157 30.26791 ‐97.75188 2
+11/12/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle___app_issue 30.278864 ‐97.741556 30.278996 ‐97.74161 2
+11/24/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle___app_issue 30.301589 ‐97.720482 30.301592 ‐97.720522 478
+11/19/2021 Austin
+Bike is beeping.
+Unable to end ride
+cannot_unlock_vehi
+cle___app_issue 30.260775 ‐97.757357 30.260783 ‐97.757335 190
+11/9/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle___app_issue 30.268918 ‐97.740802 30.26877 ‐97.74215 234
+11/10/2021 Austin Ride died
+cannot_unlock_vehi
+cle___app_issue 30.260996 ‐97.71361 30.26315 ‐97.71285 175
+11/30/2021 Austin
+I was charged for an
+extra 20 minutes
+cannot_unlock_vehi
+cle___app_issue 30.270189 ‐97.748288 30.272877 ‐97.740859 109
+11/24/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle___app_issue 30.294613 ‐97.783742 30.28828 ‐97.78121 211
+11/14/2021 Austin
+Phone Call from:
+Caller +1 (737) 239‐
+5400
+cannot_unlock_vehi
+cle___app_issue 13
+11/11/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_unlock_vehi
+cle___app_issue 30.276996 ‐97.729126 30.277039 ‐97.729197 38
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_unlock_vehi
+cle___app_issue 30.278598 ‐97.724923 30.278673 ‐97.724953 305
+11/4/2021 Austin
+I had an incorrect
+charge
+cannot_unlock_vehi
+cle___app_issue 30.271879 ‐97.758155 30.27067 ‐97.75603 42
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle___app_issue 30.263558 ‐97.727474 30.263237 ‐97.72722 244
+11/1/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_unlock_vehi
+cle___app_issue 30.2652 ‐97.743705 15
+11/15/2021 Austin
+Scooter was not
+active on my phone
+cannot_unlock_vehi
+cle___app_issue 36
+11/11/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.264771 ‐97.745877 30.264612 ‐97.74531 149
+11/11/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.264771 ‐97.745877 30.264612 ‐97.74531 148
+11/6/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.265996 ‐97.745124 30.26547 ‐97.74518 359
+11/17/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.246 ‐97.770708 30.246007 ‐97.770733 107
+11/22/2021 Austin
+I was unable to end
+my ride
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.267036 ‐97.745566 169
+11/24/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.2902 ‐97.730995 30.28927 ‐97.7328 161
+11/27/2021 Austin
+Phone Call from:
+Caller +1 (737) 336‐
+3156
+cannot_unlock_vehi
+cle__not_enough_d
+etails 4
+11/4/2021 Austin
+I was unable to end
+my ride
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.258062 ‐97.739024 30.25828 ‐97.739517 384
+11/6/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.279831 ‐97.721377 30.27898 ‐97.72504 393
+11/19/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.264908 ‐97.739923 30.264957 ‐97.739975 2
+11/9/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.263698 ‐97.744375 30.26377 ‐97.74428 79
+11/13/2021 Austin
+The vehicle did not
+operate and won't
+let me park
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.261149 ‐97.758666 30.266338 ‐97.755409 278
+11/22/2021 Austin
+Scooter never
+worked.
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.274539 ‐97.742371 30.273993 ‐97.74264 12
+11/2/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.269699 ‐97.737049 30.26523 ‐97.74374 4
+11/25/2021 Austin
+Scooter accelator
+didnt work, but
+money is charged
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.265861 ‐97.750074 30.265994 ‐97.745889 39
+11/28/2021 Austin
+Fwd: Receipt for
+your Lime ride
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.266378 ‐97.756031 30.266374 ‐97.75605 13
+11/7/2021 Austin
+Several scooter
+rides. none worked.
+cannot_unlock_vehi
+cle__not_enough_d
+etails 214
+11/4/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.261523 ‐97.748174 30.26136 ‐97.74824 329
+11/6/2021 Austin Wouldnâ€™t work
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.269566 ‐97.747817 30.269296 ‐97.747257 7
+11/16/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.270694 ‐97.742273 30.270359 ‐97.74208 66
+11/28/2021 Austin
+I had an incorrect
+charge
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.268634 ‐97.746992 30.268652 ‐97.74613 209
+11/19/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.277117 ‐97.736905 30.27749 ‐97.73692 8
+11/30/2021 Austin
+I had an incorrect
+charge
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.272234 ‐97.773155 30.269632 ‐97.775365 130
+11/24/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.269428 ‐97.736088 30.26757 ‐97.74082 423
+11/12/2021 Austin
+Have lime cash,
+can't start ride.
+cannot_unlock_vehi
+cle__not_enough_d
+etails 204
+11/5/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.261808 ‐97.748193 30.263734 ‐97.746414 325
+11/21/2021 Austin
+I was unable to end
+my ride
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.260425 ‐97.738208 85
+11/7/2021 Austin
+Fwd: Receipt for
+your Lime ride
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.27254 ‐97.74098 30.272506 ‐97.741037 163
+11/13/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.256143 ‐97.724814 30.2561 ‐97.72482 5
+11/10/2021 Austin
+I was charged
+incorrectly
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.264128 ‐97.744023 30.264064 ‐97.744647 120
+11/6/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.280239 ‐97.737192 30.280337 ‐97.736968 93
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.260382 ‐97.725371 30.26044 ‐97.72532 168
+11/21/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.234507 ‐97.768468 30.22785 ‐97.761397 113
+11/29/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.2634 ‐97.733423 30.26333 ‐97.733528 14
+11/28/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.268016 ‐97.743183 30.26852 ‐97.744804 17
+11/8/2021 Austin
+Neither scooter
+worked.
+cannot_unlock_vehi
+cle__not_enough_d
+etails 356
+11/8/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.259875 ‐97.741517 30.25951 ‐97.73956 218
+11/12/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.268034 ‐97.743011 30.26797 ‐97.74285 7
+11/12/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.265857 ‐97.740454 30.25884 ‐97.73873 20
+11/12/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.265132 ‐97.738812 30.26499 ‐97.739 5
+11/3/2021 Austin
+I was charged
+incorrectly
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.248208 ‐97.735917 30.248211 ‐97.735947 15
+11/6/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.264942 ‐97.76158 30.26499 ‐97.76151 327
+11/10/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.269551 ‐97.748316 30.267476 ‐97.744791 138
+11/12/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.267808 ‐97.750937 30.267497 ‐97.751469 5
+11/1/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.270395 ‐97.733084 30.270395 ‐97.733084 265
+11/12/2021 Austin
+Scooter did not
+work. It never
+started and had no
+power
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.26992 ‐97.731006 30.26992 ‐97.731006 9
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.285932 ‐97.741588 30.28867 ‐97.74226 279
+11/16/2021 Austin Refund
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.262694 ‐97.738413 30.262688 ‐97.73834 65
+11/6/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.278165 ‐97.736383 30.278717 ‐97.73495 31
+11/5/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.265996 ‐97.749674 30.265766 ‐97.749466 180
+11/17/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.264902 ‐97.746899 30.26497 ‐97.74633 126
+11/24/2021 Austin Didnâ€™t work
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.279997 ‐97.737163 30.280474 ‐97.737758 5
+11/13/2021 Austin
+Back wheel locked,
+can't end ride
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.262808 ‐97.742587 30.264828 ‐97.770583 181
+11/16/2021 Austin
+No he podido iniciar
+mi viaje
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.247691 ‐97.733523 30.247486 ‐97.73331 20
+11/7/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.287731 ‐97.742486 30.287842 ‐97.741879 18
+11/24/2021 Austin
+Phone Call from:
+Caller +1 (512) 784‐
+6945
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.261745 ‐97.739253 30.261637 ‐97.73917 8
+11/22/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.291591 ‐97.744627 30.284232 ‐97.744893 138
+11/11/2021 Austin
+Payment method on
+my JUMP acct.
+cannot_unlock_vehi
+cle__not_enough_d
+etails 146
+11/3/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.306516 ‐97.724827 30.30086 ‐97.721176 80
+11/5/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.26634 ‐97.740176 30.266229 ‐97.740207 3
+11/5/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.26597 ‐97.749282 30.265877 ‐97.74943 182
+11/7/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.269531 ‐97.748093 30.269432 ‐97.74795 37
+11/2/2021 Austin
+I was unable to end
+my ride
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.281965 ‐97.743077 30.281961 ‐97.743184 222
+11/27/2021 Austin Lock Problem
+cannot_unlock_vehi
+cle__not_enough_d
+etails 119
+11/2/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.264343 ‐97.74397 30.26385 ‐97.73486 15
+11/23/2021 Austin
+I was charged
+incorrectly
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.268146 ‐97.739045 30.268312 ‐97.738761 71
+11/11/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.26302 ‐97.726507 30.267375 ‐97.751185 124
+11/17/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.253314 ‐97.748139 30.266127 ‐97.743645 139
+11/8/2021 Austin
+I was unable to end
+my ride
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.28428 ‐97.743072 360
+11/11/2021 Austin
+Both scooters I paid
+for 11/11 would not
+accelerate
+cannot_unlock_vehi
+cle__not_enough_d
+etails 173
+11/6/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.253537 ‐97.748104 30.255404 ‐97.747505 382
+11/23/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.283876 ‐97.742211 30.283722 ‐97.74213 40
+11/12/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.26817 ‐97.750918 30.267815 ‐97.750877 19
+11/6/2021 Austin
+ride wouldnt start.
+still got charged
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.26461 ‐97.7573 30.264605 ‐97.757343 432
+11/6/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.263638 ‐97.755002 30.263643 ‐97.755015 3
+11/13/2021 Austin
+I had an incorrect
+charge
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.26258 ‐97.741893 30.26258 ‐97.7413 105
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.26258 ‐97.741893 30.26258 ‐97.7413 106
+11/29/2021 Austin
+Payment not going
+through
+cannot_unlock_vehi
+cle__not_enough_d
+etails 111
+11/20/2021 Austin Failed ride
+cannot_unlock_vehi
+cle__not_enough_d
+etails 155
+11/25/2021 Austin
+Re: I was charged
+incorrectly
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.280317 ‐97.736644 30.277464 ‐97.733108 9
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.261207 ‐97.700121 183
+11/15/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.265127 ‐97.746685 30.26817 ‐97.74561 75
+11/13/2021 Austin
+Canâ€™t exit an old
+bike
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.266675 ‐97.741416 30.265759 ‐97.741413 201
+11/2/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.267825 ‐97.74278 30.267827 ‐97.742779 10
+11/21/2021 Austin Scooter was faulty
+cannot_unlock_vehi
+cle__not_enough_d
+etails 144
+11/27/2021 Austin
+BEING DENIED
+UBER EATS
+DELIVERY AND
+PAYPAL OTHER
+PAYMENTS BEING
+DECLINED
+cannot_unlock_vehi
+cle__not_enough_d
+etails 166
+11/5/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.262005 ‐97.741362 30.26193 ‐97.741303 10
+11/17/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.264142 ‐97.740497 30.265198 ‐97.745003 4
+11/6/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.284461 ‐97.741616 30.28428 ‐97.74186 99
+11/4/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.270504 ‐97.753248 30.27036 ‐97.75437 6
+11/4/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.270504 ‐97.753248 30.27036 ‐97.75437 8
+11/14/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.251022 ‐97.732235 30.25102 ‐97.73219 54
+11/2/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.267996 ‐97.743678 30.2681 ‐97.74346 11
+11/9/2021 Austin
+My scooter
+wonâ€™t shut off
+when Iâ€™m done
+cannot_unlock_vehi
+cle__not_enough_d
+etails 281
+11/12/2021 Austin
+I was unable to end
+my ride
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.26577 ‐97.746211 30.26578 ‐97.746248 210
+11/18/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.274433 ‐97.74534 30.27448 ‐97.74542 35
+11/22/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.264962 ‐97.739185 30.264922 ‐97.739092 68
+11/4/2021 Austin
+Phone Call from:
+Caller +1 (774) 217‐
+1690
+cannot_unlock_vehi
+cle__not_enough_d
+etails 6
+11/11/2021 Austin Didnt work
+cannot_unlock_vehi
+cle__not_enough_d
+etails 185
+11/1/2021 Austin
+Phone Call from:
+Caller +1 (737) 900‐
+3193
+cannot_unlock_vehi
+cle__not_enough_d
+etails 6
+11/1/2021 Austin Broken Lime
+cannot_unlock_vehi
+cle__not_enough_d
+etails 4450
+11/13/2021 Austin
+I couldn't end my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.265872 ‐97.768163 30.26564 ‐97.76743 12
+11/7/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.262847 ‐97.738705 30.26255 ‐97.74105 4
+11/9/2021 Austin
+My vehicle was
+broken or stopped
+working
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.257287 ‐97.740505 30.253833 ‐97.716955 267
+11/29/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.253313 ‐97.74819 30.24925 ‐97.74971 131
+11/9/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.263456 ‐97.743735 30.26351 ‐97.74435 81
+11/9/2021 Austin
+I couldn't start my
+trip
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.263222 ‐97.744786 30.263203 ‐97.744789 65
+11/7/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.26686 ‐97.741822 30.267893 ‐97.74244 146
+11/1/2021 Austin
+I was unable to end
+my ride
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.266379 ‐97.743663 28
+11/1/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.26579 ‐97.752873 30.265337 ‐97.748935 232
+11/11/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.259708 ‐97.749632 30.260033 ‐97.749497 4
+11/11/2021 Austin
+Rides wonâ€™t
+work
+cannot_unlock_vehi
+cle__not_enough_d
+etails 34
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.293034 ‐97.736097 30.29333 ‐97.73571 291
+11/7/2021 Austin
+Fwd: Receipt for
+your Lime ride
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.259429 ‐97.750674 30.260353 ‐97.749813 258
+11/21/2021 Austin
+Refund for broken
+bike
+cannot_unlock_vehi
+cle__not_enough_d
+etails 30.264217 ‐97.732808 30.263942 ‐97.735642 30
+11/19/2021 Austin
+Phone Call from:
+Caller +1 (737) 268‐
+3686
+cannot_unlock_vehi
+cle__not_enough_d
+etails 11
+11/21/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.26122 ‐97.738758 30.268378 ‐97.752914 125
+11/6/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.290418 ‐97.741408 30.270134 ‐97.745965 12
+11/11/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.278185 ‐97.714788 30.278187 ‐97.714752 2
+11/15/2021 Austin
+I was unable to end
+my ride
+damaged_vehicle__
+brake_issue_ 32.717634 ‐117.149565 32.712051 ‐117.163452 78
+11/9/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.322293 ‐97.712525 30.320999 ‐97.714685 201
+11/9/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+brake_issue_ 30.264882 ‐97.744561 30.2652 ‐97.74764 5
+11/7/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+brake_issue_ 30.258062 ‐97.739009 30.25776 ‐97.72408 301
+11/21/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.253235 ‐97.748174 30.263755 ‐97.733118 47
+11/12/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.266805 ‐97.753312 30.258317 ‐97.750427 15
+11/5/2021 Austin Broken brake
+damaged_vehicle__
+brake_issue_ 30.270849 ‐97.74529 30.269316 ‐97.746536 157
+11/23/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.272514 ‐97.740852 30.26297 ‐97.754025 5
+11/2/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+brake_issue_ 14
+11/28/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.264227 ‐97.7428 30.254652 ‐97.717475 4
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.286413 ‐97.744772 30.290371 ‐97.74982 258
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.257532 ‐97.738229 30.2307 ‐97.762702 57
+11/27/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.267892 ‐97.745345 30.265578 ‐97.736415 3
+11/18/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.264345 ‐97.74442 30.264579 ‐97.745576 19
+11/1/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.284615 ‐97.745007 30.291498 ‐97.744345 255
+11/10/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.268441 ‐97.73649 30.275009 ‐97.736904 6
+11/2/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.243473 ‐97.71664 30.255559 ‐97.720883 19
+11/19/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.288207 ‐97.74783 30.289009 ‐97.750075 30
+11/4/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+brake_issue_ 391
+11/7/2021 Austin NO BRAKES
+damaged_vehicle__
+brake_issue_ 30.251385 ‐97.749159 30.24994 ‐97.75412 87
+11/29/2021 Austin Broken scooter
+damaged_vehicle__
+brake_issue_ 30.273048 ‐97.741675 30.27305 ‐97.74167 97
+11/3/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.259291 ‐97.746403 30.263472 ‐97.741895 6
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.260829 ‐97.739208 30.26401 ‐97.731305 5
+11/9/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.255129 ‐97.685951 30.252485 ‐97.699139 10
+11/27/2021 Austin Lime inaccurate bill
+damaged_vehicle__
+brake_issue_ 30.266251 ‐97.743479 30.266113 ‐97.736173 168
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.241725 ‐97.717148 30.26751 ‐97.743159 14
+11/12/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.237981 ‐97.75444 30.251889 ‐97.748642 3
+11/19/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.289382 ‐97.73356 30.288232 ‐97.728723 26
+11/9/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+brake_issue_ 30.268501 ‐97.740936 30.26888 ‐97.74097 4
+11/6/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.265191 ‐97.744033 30.247923 ‐97.755602 3
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.252962 ‐97.724933 30.2604 ‐97.733746 7
+11/10/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.310565 ‐97.70597 30.275162 ‐97.74298 72
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.259312 ‐97.738766 30.268683 ‐97.739874 223
+11/24/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.269183 ‐97.740702 30.269183 ‐97.740702 6
+11/19/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.252013 ‐97.748557 30.256196 ‐97.747051 245
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.264567 ‐97.728131 30.268489 ‐97.739698 18
+11/15/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+brake_issue_ 30.26303 ‐97.744781 30.2592 ‐97.74672 4
+11/1/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.248937 ‐97.768569 30.258929 ‐97.747122 81
+11/2/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.282074 ‐97.743383 30.29094 ‐97.745288 126
+11/6/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.306118 ‐97.735963 30.291472 ‐97.741362 176
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.263612 ‐97.741719 30.266879 ‐97.74271 3
+11/17/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.249774 ‐97.723607 30.251221 ‐97.731939 141
+11/1/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+brake_issue_ 30.261555 ‐97.717439 30.254182 ‐97.731315 6
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_baseboard 30.268501 ‐97.743592 30.268223 ‐97.743456 31
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_baseboard 30.261392 ‐97.738772 30.262988 ‐97.726494 6
+11/6/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_baseboard 30.266755 ‐97.738424 30.266333 ‐97.741911 483
+11/17/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_baseboard 30.261231 ‐97.739264 30.266728 ‐97.745267 15
+11/15/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_handlebar 30.261717 ‐97.737845 30.269893 ‐97.737075 60
+11/29/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_handlebar 30.293442 ‐97.732925 30.293537 ‐97.722909 76
+11/19/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_handlebar 30.247089 ‐97.755944 30.263941 ‐97.747102 191
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_handlebar 30.254668 ‐97.717448 30.266686 ‐97.74608 35
+11/28/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_handlebar 30.254643 ‐97.717467 30.241713 ‐97.717076 3
+11/13/2021 Austin
+Mi vehÃ‐culo estÃ¡
+daÃ±ado o dejÃ³ de
+funcionar
+damaged_vehicle__
+broken_handlebar 30.29023 ‐97.744857 30.268218 ‐97.737847 73
+11/1/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_handlebar 30.298066 ‐97.740995 30.318818 ‐97.730663 3
+11/21/2021 Austin
+Handlebar/wheel
+misaligned
+damaged_vehicle__
+broken_handlebar 30.26462 ‐97.73814 30.264274 ‐97.73356 6
+11/29/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_handlebar 30.282943 ‐97.746141 30.283907 ‐97.745144 2
+11/6/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_handlebar 30.302513 ‐97.738519 30.301566 ‐97.733743 45
+11/19/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_handlebar 30.233425 ‐97.765008 30.22039 ‐97.753859 180
+11/2/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_handlebar 30.299406 ‐97.740396 30.305354 ‐97.717099 9
+11/7/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_handlebar 30.263406 ‐97.742094 30.263825 ‐97.742312 12
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_handlebar 30.264186 ‐97.743793 30.229688 ‐97.781812 788
+11/18/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_handlebar 30.263952 ‐97.732336 30.270782 ‐97.734007 34
+11/24/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_handlebar 30.266784 ‐97.745427 30.266725 ‐97.743462 1
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_handlebar 30.261808 ‐97.738758 30.265659 ‐97.749972 184
+11/12/2021 Austin
+Re: My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_handlebar 30.251661 ‐97.713709 30.261562 ‐97.722302 80
+11/8/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+broken_handlebar 30.251661 ‐97.713709 30.261562 ‐97.722302 5
+11/30/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+kickstand 30.264438 ‐97.733818 30.264405 ‐97.733758 4
+11/25/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__l
+ights 30.228175 ‐97.778987 30.224401 ‐97.791937 216
+11/25/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__l
+ights 30.249751 ‐97.766551 30.246602 ‐97.777717 2939
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__l
+ights 30.2649 ‐97.72917 30.268508 ‐97.739774 2
+11/11/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.252076 ‐97.73232 30.25199 ‐97.73652 126
+11/18/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.259999 ‐97.741189 30.259448 ‐97.740517 76
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.266285 ‐97.739728 30.27283 ‐97.741798 193
+11/15/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.266056 ‐97.743793 30.26728 ‐97.74447 6
+11/14/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.276725 ‐97.735833 30.279823 ‐97.7352 4
+11/15/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.258827 ‐97.758972 30.26488 ‐97.74927 70
+11/18/2021 Austin
+Scooter did not
+work ‐ request
+refund
+damaged_vehicle__
+not_enough_inform
+ation 30.25871 ‐97.74644 30.2586 ‐97.74647 87
+11/11/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.263853 ‐97.734582 30.26364 ‐97.73411 140
+11/6/2021 Austin
+This lime ride would
+not go
+damaged_vehicle__
+not_enough_inform
+ation 30.269445 ‐97.740747 30.26937 ‐97.740689 337
+11/17/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.246 ‐97.770708 30.246007 ‐97.770733 136
+11/17/2021 Austin
+I couldn't start my
+trip
+damaged_vehicle__
+not_enough_inform
+ation 30.246 ‐97.770708 30.246007 ‐97.770733 137
+11/15/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.256895 ‐97.715682 30.262833 ‐97.731332 217
+11/29/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.269962 ‐97.750764 30.269126 ‐97.751095 492
+11/8/2021 Austin
+Multiple scooters
+broken. Need
+refund.
+damaged_vehicle__
+not_enough_inform
+ation 370
+11/9/2021 Austin
+I couldn't start my
+trip
+damaged_vehicle__
+not_enough_inform
+ation 30.312657 ‐97.771845 30.313467 ‐97.767233 49
+11/20/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.247375 ‐97.709828 30.248055 ‐97.713488 7
+11/15/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.265372 ‐97.766554 92
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.272139 ‐97.741347 30.270067 ‐97.742256 255
+11/9/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.255209 ‐97.761942 30.26626 ‐97.75487 65
+11/21/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.269885 ‐97.748238 30.270104 ‐97.748153 1
+11/28/2021 Austin
+The shared bike
+can't work. I stop it.
+So it appe...
+damaged_vehicle__
+not_enough_inform
+ation 30.259705 ‐97.745599 30.25952 ‐97.74556 3356
+11/17/2021 Austin
+I was charged
+incorrectly
+damaged_vehicle__
+not_enough_inform
+ation 30.287757 ‐97.74323 30.287771 ‐97.742945 64
+11/14/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.257118 ‐97.724333 30.248548 ‐97.728312 6
+11/7/2021 Austin
+Fwd: Receipt for
+your Lime ride
+damaged_vehicle__
+not_enough_inform
+ation 30.272468 ‐97.741049 30.268858 ‐97.739864 175
+11/28/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.268634 ‐97.746992 30.268652 ‐97.74613 217
+11/14/2021 Austin
+Scooter did not
+work
+damaged_vehicle__
+not_enough_inform
+ation 30.265091 ‐97.750809 30.265075 ‐97.750824 6
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.263891 ‐97.726248 30.26369 ‐97.72629 295
+11/26/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.240196 ‐97.756531 30.233428 ‐97.765057 55
+11/26/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.289665 ‐97.734411 30.288293 ‐97.734313 12
+11/13/2021 Austin Did not work
+damaged_vehicle__
+not_enough_inform
+ation 272
+11/4/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.298194 ‐97.741232 30.29823 ‐97.74128 3
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.260946 ‐97.770856 30.251241 ‐97.765962 9
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.256143 ‐97.724814 30.2561 ‐97.72482 5
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.263028 ‐97.716227 30.26302 ‐97.716258 41
+11/3/2021 Austin
+I've tried renting
+lime several times
+and the lime...
+damaged_vehicle__
+not_enough_inform
+ation 30.269738 ‐97.74163 30.269746 ‐97.741226 172
+11/11/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.278598 ‐97.715502 30.27818 ‐97.714788 180
+11/21/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.280343 ‐97.735366 30.280417 ‐97.734514 2
+11/19/2021 Austin
+I was unable to end
+my ride
+damaged_vehicle__
+not_enough_inform
+ation 30.266775 ‐97.755088 30.267092 ‐97.754758 108
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 238
+11/20/2021 Austin Didnâ€™t work
+damaged_vehicle__
+not_enough_inform
+ation 213
+11/5/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.241439 ‐97.785148 30.254465 ‐97.74289 539
+11/21/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.290447 ‐97.741292 30.28403 ‐97.7205 236
+11/5/2021 Austin
+Phone Call from:
+Caller +1 (603) 793‐
+2146
+damaged_vehicle__
+not_enough_inform
+ation 30.269233 ‐97.743832 30.269634 ‐97.74449 11
+11/22/2021 Austin Scooter didn't work.
+damaged_vehicle__
+not_enough_inform
+ation 30.274548 ‐97.742249 30.27453 ‐97.7424 3
+11/1/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.231982 ‐97.716654 30.262642 ‐97.731276 2
+11/12/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.290607 ‐97.749683 30.285633 ‐97.746568 215
+11/14/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.29011 ‐97.749143 30.291445 ‐97.747415 101
+11/30/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.257269 ‐97.739416 30.25816 ‐97.73891 87
+11/28/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.292585 ‐97.741481 30.29003 ‐97.74236 12
+11/22/2021 Austin New User
+damaged_vehicle__
+not_enough_inform
+ation 30.249284 ‐97.735259 30.249287 ‐97.735247 91
+11/2/2021 Austin
+Scooter didnâ€™t
+work
+damaged_vehicle__
+not_enough_inform
+ation 30.264667 ‐97.740243 30.26421 ‐97.740312 42
+11/23/2021 Austin Scooter out of order
+damaged_vehicle__
+not_enough_inform
+ation 30.265412 ‐97.74705 30.264533 ‐97.746838 41
+11/6/2021 Austin
+I was charged
+incorrectly
+damaged_vehicle__
+not_enough_inform
+ation 30.269151 ‐97.740707 30.269308 ‐97.74075 319
+11/6/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.272128 ‐97.73848 30.278913 ‐97.734748 5
+11/7/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.271703 ‐97.741576 30.27171 ‐97.74142 70
+11/7/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.26274 ‐97.72559 30.262792 ‐97.725727 212
+11/7/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.262158 ‐97.761578 30.26214 ‐97.76153 1
+11/18/2021 Austin
+Like Scooter Was
+Broken
+damaged_vehicle__
+not_enough_inform
+ation 30.256792 ‐97.746657 30.25721 ‐97.74688 11
+11/6/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.266543 ‐97.751908 30.26489 ‐97.75015 357
+11/28/2021 Austin Didnâ€™t work
+damaged_vehicle__
+not_enough_inform
+ation 30.263441 ‐97.75163 30.263646 ‐97.751522 68
+11/20/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.263153 ‐97.744885 30.264 ‐97.74416 243
+11/6/2021 Austin
+Phone Call from:
+Caller +1 (816) 799‐
+3850
+damaged_vehicle__
+not_enough_inform
+ation 30.266819 ‐97.754425 30.267207 ‐97.753334 4
+11/4/2021 Austin
+Re: Receipt for your
+Lime ride
+damaged_vehicle__
+not_enough_inform
+ation 30.263551 ‐97.727504 30.263489 ‐97.727437 293
+11/14/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.264728 ‐97.749044 30.263784 ‐97.746653 126
+11/8/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.269776 ‐97.75154 30.272926 ‐97.75109 338
+11/15/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.296874 ‐97.74574 30.296566 ‐97.745061 86
+11/7/2021 Austin
+I couldn't start my
+trip
+damaged_vehicle__
+not_enough_inform
+ation 30.265922 ‐97.754236 30.266369 ‐97.75486 64
+11/7/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.247895 ‐97.7241 30.248527 ‐97.728017 233
+11/15/2021 Austin
+Scooter did not
+work
+damaged_vehicle__
+not_enough_inform
+ation 30.258524 ‐97.746591 30.258541 ‐97.746482 47
+11/29/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.264491 ‐97.734094 30.264566 ‐97.73391 9
+11/12/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.265389 ‐97.74061 30.268041 ‐97.746553 0
+11/23/2021 Austin
+These things don't
+work. Please don't
+charge my ca...
+damaged_vehicle__
+not_enough_inform
+ation 30.263194 ‐97.744457 30.263428 ‐97.744976 13
+11/16/2021 Austin
+Please refund my
+fee
+damaged_vehicle__
+not_enough_inform
+ation 30.266154 ‐97.750971 30.272542 ‐97.740051 55
+11/6/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.259068 ‐97.746045 30.262991 ‐97.744589 377
+11/7/2021 Austin
+Charged when 3
+scooters didnâ€™t
+even work
+damaged_vehicle__
+not_enough_inform
+ation 257
+11/7/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.293911 ‐97.742037 30.29075 ‐97.74121 4
+11/4/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.266633 ‐97.743357 30.256254 ‐97.746079 254
+11/9/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.256365 ‐97.751404 30.229713 ‐97.781646 844
+11/14/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.268628 ‐97.742298 30.279977 ‐97.736031 6
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.278094 ‐97.735325 30.276574 ‐97.73585 270
+11/5/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.261979 ‐97.739565 30.26187 ‐97.73961 9
+11/28/2021 Austin Didnâ€™t work
+damaged_vehicle__
+not_enough_inform
+ation 61
+11/8/2021 Austin
+I couldn't start my
+trip
+damaged_vehicle__
+not_enough_inform
+ation 30.269318 ‐97.751683 30.269045 ‐97.75201 5
+11/15/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.266892 ‐97.742672 30.26745 ‐97.74524 9
+11/9/2021 Austin Damaged vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.257577 ‐97.700783 30.26381 ‐97.704463 307
+11/16/2021 Austin Refund request
+damaged_vehicle__
+not_enough_inform
+ation 30.266002 ‐97.75092 30.272253 ‐97.740256 129
+11/18/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.26494 ‐97.743671 30.265217 ‐97.744615 5
+11/12/2021 Austin Did not ride!!!!!!!
+damaged_vehicle__
+not_enough_inform
+ation 30.265052 ‐97.738917 30.265365 ‐97.740123 252
+11/11/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.263765 ‐97.704433 30.25106 ‐97.71495 5
+11/14/2021 Austin
+I was unable to end
+my ride
+damaged_vehicle__
+not_enough_inform
+ation 30.274165 ‐97.742351 30.261381 ‐97.741371 158
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.267653 ‐97.751316 30.24366 ‐97.758319 4
+11/5/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.272993 ‐97.741684 30.274 ‐97.74324 2
+11/10/2021 Austin
+Phone Call from:
+Caller +1 v
+damaged_vehicle__
+not_enough_inform
+ation 30.243463 ‐97.719665 30.246717 ‐97.730417 4
+11/12/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.264678 ‐97.739342 30.26357 ‐97.74471 200
+11/2/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.235847 ‐97.721918 30.231388 ‐97.721578 270
+11/14/2021 Austin
+He tenido un
+problema
+mecÃ¡nico con mi
+vehÃ‐culo
+damaged_vehicle__
+not_enough_inform
+ation 30.239659 ‐97.727186 30.239693 ‐97.7273 135
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.265974 ‐97.74195 30.2636 ‐97.74295 232
+11/11/2021 Austin Refund
+damaged_vehicle__
+not_enough_inform
+ation 30.254927 ‐97.747667 30.256853 ‐97.746749 174
+11/6/2021 Austin
+I couldn't start my
+trip
+damaged_vehicle__
+not_enough_inform
+ation 30.260876 ‐97.738188 30.26074 ‐97.73833 367
+11/12/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.250874 ‐97.727828 30.252412 ‐97.734224 5
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.278709 ‐97.735122 30.278768 ‐97.735119 17
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.29646 ‐97.735175 30.280312 ‐97.721142 242
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.279491 ‐97.734698 30.279445 ‐97.734704 37
+11/15/2021 Austin
+broken and refund
+pass
+damaged_vehicle__
+not_enough_inform
+ation 132
+11/13/2021 Austin
+Scooter does not
+work
+damaged_vehicle__
+not_enough_inform
+ation 30.277218 ‐97.717105 30.27719 ‐97.71724 107
+11/12/2021 Austin
+Non ho potuto
+completare la corsa
+damaged_vehicle__
+not_enough_inform
+ation 30.278108 ‐97.735824 30.28958 ‐97.73437 251
+11/12/2021 Austin
+Mi Ã¨ stato
+addebitato un
+importo errato
+damaged_vehicle__
+not_enough_inform
+ation 30.278108 ‐97.735824 30.28958 ‐97.73437 248
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.290586 ‐97.750018 30.286533 ‐97.743401 147
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.263183 ‐97.726587 30.263273 ‐97.72651 257
+11/6/2021 Austin
+I couldn't start my
+trip
+damaged_vehicle__
+not_enough_inform
+ation 30.264839 ‐97.748436 30.264438 ‐97.748942 368
+11/19/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.26245 ‐97.75245 30.2574 ‐97.7495 176
+11/14/2021 Austin Need refund
+damaged_vehicle__
+not_enough_inform
+ation 167
+11/6/2021 Austin Scootter issue
+damaged_vehicle__
+not_enough_inform
+ation 1409
+11/18/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.248131 ‐97.771484 30.259656 ‐97.76989 36
+11/14/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.246417 ‐97.730625 30.246681 ‐97.73046 1261
+11/4/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.258445 ‐97.738632 30.261452 ‐97.73792 9
+11/20/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.278402 ‐97.773217 30.278437 ‐97.773217 19
+11/8/2021 Austin
+Phone Call from:
+Caller +1 (512) 999‐
+5897
+damaged_vehicle__
+not_enough_inform
+ation 9
+11/1/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 176
+11/5/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.262498 ‐97.738678 30.26287 ‐97.73852 4
+11/4/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.265138 ‐97.74155 30.25434 ‐97.74778 4
+11/8/2021 Austin
+I couldn't start my
+trip
+damaged_vehicle__
+not_enough_inform
+ation 30.245442 ‐97.751003 30.245442 ‐97.751003 9
+11/6/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.278814 ‐97.728551 30.27986 ‐97.72132 389
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.265615 ‐97.769248 30.26594 ‐97.76889 322
+11/3/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.26188 ‐97.73965 30.26202 ‐97.73948 6
+11/8/2021 Austin
+Neither scooter
+worked ‐ Refund
+Needed
+damaged_vehicle__
+not_enough_inform
+ation 30.267117 ‐97.746736 30.266475 ‐97.748255 1373
+11/26/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.24985 ‐97.723712 43
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.260867 ‐97.737937 30.260847 ‐97.73797 194
+11/6/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+not_enough_inform
+ation 30.279844 ‐97.721318 30.278814 ‐97.728551 5
+11/12/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.2639 ‐97.733212 30.26425 ‐97.745793 1
+11/21/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+not_enough_inform
+ation 30.263627 ‐97.743208 30.229768 ‐97.781587 344
+11/1/2021 Austin Charge in error
+damaged_vehicle__
+not_enough_inform
+ation 288
+11/1/2021 Austin
+Scooter stopped
+working.
+Couldnâ€™t end
+trip.
+damaged_vehicle__
+not_enough_inform
+ation 280
+11/20/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+physical_lock_issue 30.254307 ‐97.737593 30.26489 ‐97.74048 161
+11/7/2021 Austin
+I couldn't start my
+trip
+damaged_vehicle__
+physical_lock_issue 30.269237 ‐97.747244 30.26757 ‐97.746167 8
+11/1/2021 Austin
+My bike ride wont
+end
+damaged_vehicle__
+physical_lock_issue 30.232538 ‐97.758454 30.227084 ‐97.761762 301
+11/1/2021 Austin
+I couldn't start my
+trip
+damaged_vehicle__
+physical_lock_issue 30.26885 ‐97.728514 30.268719 ‐97.728129 260
+11/22/2021 Austin
+I couldn't start my
+trip
+damaged_vehicle__
+physical_lock_issue 30.265029 ‐97.746765 30.264785 ‐97.746751 5
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+physical_lock_issue 30.265133 ‐97.762009 30.265128 ‐97.762123 191
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.265458 ‐97.741343 30.264181 ‐97.72712 116
+11/1/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.272409 ‐97.741237 30.27221 ‐97.74139 1433
+11/18/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.260271 ‐97.738497 30.260348 ‐97.73854 3
+11/15/2021 Austin
+You rode LIME
+scooter number
+XXX297 0.16 miles |
+5 min
+damaged_vehicle__
+throttle/accelerator 30.263641 ‐97.745433 30.2632 ‐97.74486 8
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.284732 ‐97.716868 30.284296 ‐97.718087 2
+11/12/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.287097 ‐97.741712 30.280307 ‐97.737017 3
+11/2/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.28641 ‐97.741761 30.288324 ‐97.741477 252
+11/16/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.25848 ‐97.746271 30.262462 ‐97.745334 3
+11/6/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.272814 ‐97.740887 30.275313 ‐97.741983 5
+11/22/2021 Austin Scooter Didn't work
+damaged_vehicle__
+throttle/accelerator 30.274478 ‐97.742282 30.274433 ‐97.74288 7
+11/15/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.265577 ‐97.739972 30.265447 ‐97.740108 5
+11/6/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.275488 ‐97.73397 30.274258 ‐97.729301 325
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.26265 ‐97.738712 30.272159 ‐97.768598 9
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.261252 ‐97.738903 30.273072 ‐97.741719 98
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.268671 ‐97.746504 30.267804 ‐97.745632 5
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.251739 ‐97.740173 30.248481 ‐97.734627 171
+11/12/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.261873 ‐97.739015 30.261598 ‐97.739203 4
+11/7/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.264344 ‐97.747524 30.263535 ‐97.745569 6
+11/20/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.286381 ‐97.74235 30.286434 ‐97.74228 29
+11/30/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.264848 ‐97.738682 30.264672 ‐97.738071 4
+11/6/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.270644 ‐97.75231 30.272671 ‐97.75716 260
+11/7/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.261371 ‐97.737931 30.261378 ‐97.738075 4
+11/18/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.329222 ‐97.724471 30.295367 ‐97.743027 137
+11/1/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.270048 ‐97.731651 30.273599 ‐97.744039 310
+11/6/2021 Austin
+I was charged
+incorrectly
+damaged_vehicle__
+throttle/accelerator 30.278329 ‐97.743913 30.278025 ‐97.743185 101
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.278025 ‐97.736233 30.279622 ‐97.734399 6
+11/16/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.250654 ‐97.75462 30.25251 ‐97.75364 150
+11/16/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.250654 ‐97.75462 30.25251 ‐97.75364 151
+11/16/2021 Austin
+I couldn't start my
+trip
+damaged_vehicle__
+throttle/accelerator 30.250654 ‐97.75462 30.25251 ‐97.75364 150
+11/26/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.267754 ‐97.75157 30.26791 ‐97.75188 3
+11/7/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.282771 ‐97.741954 30.284423 ‐97.741784 154
+11/27/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.256364 ‐97.756676 30.253456 ‐97.758797 6
+11/23/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.300298 ‐97.743395 30.296753 ‐97.742142 7
+11/27/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.241153 ‐97.756983 30.232974 ‐97.765717 41
+11/5/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.262315 ‐97.726878 30.26799 ‐97.725844 65
+11/11/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.265378 ‐97.740509 30.265269 ‐97.740375 89
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.263037 ‐97.753811 30.262025 ‐97.754346 3
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.251571 ‐97.734959 30.252022 ‐97.734234 10
+11/19/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.275075 ‐97.723844 30.273602 ‐97.727553 3
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.278874 ‐97.72763 30.279457 ‐97.734535 98
+11/18/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.289492 ‐97.750006 30.295247 ‐97.747684 91
+11/11/2021 Austin Last Ride = Terrible
+damaged_vehicle__
+throttle/accelerator 179
+11/29/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.260861 ‐97.737745 30.26685 ‐97.74582 8
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.264115 ‐97.732502 30.264442 ‐97.733977 173
+11/16/2021 Austin
+Phone Call from:
+Caller +1 (346) 779‐
+4692
+damaged_vehicle__
+throttle/accelerator 30.283216 ‐97.734323 30.283712 ‐97.734311 4
+11/6/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.258163 ‐97.746671 30.258434 ‐97.746254 38
+11/10/2021 Austin
+I couldn't start my
+trip
+damaged_vehicle__
+throttle/accelerator 65
+11/1/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.275544 ‐97.752818 30.264449 ‐97.748763 289
+11/9/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.264008 ‐97.732365 30.268537 ‐97.741079 6
+11/2/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.289736 ‐97.741281 30.289872 ‐97.741479 7
+11/7/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.2943 ‐97.721271 30.288812 ‐97.729374 89
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.263915 ‐97.747121 30.26382 ‐97.746669 307
+11/11/2021 Austin
+I was unable to end
+my ride
+damaged_vehicle__
+throttle/accelerator 30.273128 ‐97.730924 30.272413 ‐97.728217 170
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.275838 ‐97.736119 30.271302 ‐97.737687 249
+11/12/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.249281 ‐97.750062 30.249144 ‐97.750097 71
+11/7/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.261153 ‐97.736748 30.261392 ‐97.736916 6
+11/27/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.261843 ‐97.688848 30.27186 ‐97.69728 151
+11/24/2021 Austin
+Mein Fahrzeug war
+kaputt oder
+funktionierte nicht
+mehr
+damaged_vehicle__
+throttle/accelerator 30.279364 ‐97.740243 30.281243 ‐97.740691 1883
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.250128 ‐97.731222 30.254468 ‐97.717036 41
+11/16/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.258985 ‐97.726845 30.263828 ‐97.724848 5
+11/3/2021 Austin
+Phone Call from:
+Caller +1 (414) 499‐
+8515
+damaged_vehicle__
+throttle/accelerator 30.242245 ‐97.72834 30.239698 ‐97.727205 7
+11/30/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.266697 ‐97.749818 30.272352 ‐97.753457 8
+11/26/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.262604 ‐97.738457 30.262598 ‐97.73876 3
+11/21/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.270484 ‐97.748045 30.270697 ‐97.748041 1
+11/21/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.270484 ‐97.748045 30.270697 ‐97.748041 4
+11/24/2021 Austin
+Mi vehÃ‐culo estaba
+roto o dejÃ³ de
+funcionar
+damaged_vehicle__
+throttle/accelerator 30.286957 ‐97.742638 30.266366 ‐97.721509 10
+11/9/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.310018 ‐97.725973 30.310089 ‐97.725812 3
+11/10/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.298216 ‐97.72174 30.301918 ‐97.736297 2
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.267669 ‐97.751086 30.264484 ‐97.760047 60
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.279589 ‐97.734694 30.273713 ‐97.738235 4
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.286496 ‐97.742624 30.28189 ‐97.7426 395
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.251208 ‐97.749012 30.278133 ‐97.772318 224
+11/7/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.239686 ‐97.718398 30.235848 ‐97.721714 3
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.283791 ‐97.741959 30.283738 ‐97.742489 229
+11/21/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.266611 ‐97.747432 30.252457 ‐97.748805 39
+11/21/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.271261 ‐97.753017 30.27159 ‐97.75413 102
+11/20/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.263061 ‐97.745106 30.26519 ‐97.74705 3
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.270048 ‐97.731726 30.268408 ‐97.738991 111
+11/24/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.264295 ‐97.721463 30.27308 ‐97.737387 7
+11/1/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.248207 ‐97.735871 30.248226 ‐97.735915 25
+11/3/2021 Austin
+Phone Call from:
+Caller +1 (414) 499‐
+8515
+damaged_vehicle__
+throttle/accelerator 30.240281 ‐97.727139 30.24032 ‐97.712102 38
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.267171 ‐97.740506 30.262872 ‐97.742016 3
+11/17/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.264637 ‐97.747969 30.264892 ‐97.746663 47
+11/15/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.257331 ‐97.739948 30.257246 ‐97.739961 40
+11/6/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.266572 ‐97.749063 30.26279 ‐97.72547 414
+11/1/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.254255 ‐97.73832 30.253774 ‐97.736935 274
+11/15/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.248725 ‐97.735563 30.254502 ‐97.742656 8
+11/14/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.266485 ‐97.749663 30.26589 ‐97.74863 125
+11/26/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.280374 ‐97.737161 30.281875 ‐97.74217 14
+11/6/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.272655 ‐97.73735 30.272745 ‐97.737208 3
+11/22/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.220094 ‐97.737028 30.234356 ‐97.768402 58
+11/12/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.260183 ‐97.738386 30.260169 ‐97.738663 93
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.287744 ‐97.741986 30.287794 ‐97.742485 4
+11/4/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.284812 ‐97.747553 30.284742 ‐97.747121 7
+11/7/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.261486 ‐97.737828 30.261626 ‐97.737939 3
+11/28/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.26126 ‐97.715222 30.26185 ‐97.718773 4
+11/11/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.267095 ‐97.739552 30.268349 ‐97.738741 4
+11/22/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.265673 ‐97.752197 30.267225 ‐97.75453 4
+11/16/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.291535 ‐97.744178 30.283915 ‐97.742597 4
+11/21/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.297215 ‐97.735062 30.288911 ‐97.726512 3
+11/12/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.244666 ‐97.723254 30.244947 ‐97.726344 190
+11/7/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.269329 ‐97.740684 30.269298 ‐97.740672 36
+11/29/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.288853 ‐97.741526 30.289175 ‐97.741664 4
+11/5/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.270001 ‐97.748467 30.27 ‐97.74824 3
+11/1/2021 Austin
+RecibÃ‐ un cargo
+incorrecto
+damaged_vehicle__
+throttle/accelerator 30.266625 ‐97.743099 30.267325 ‐97.743201 90
+11/3/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.278959 ‐97.725061 30.274672 ‐97.731917 3
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.286162 ‐97.744892 30.284954 ‐97.7419 327
+11/18/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.25577 ‐97.739722 30.269034 ‐97.740946 7
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.265889 ‐97.768414 30.265915 ‐97.768341 3
+11/21/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.263847 ‐97.741636 30.264028 ‐97.741728 4
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.263373 ‐97.731132 30.262746 ‐97.73141 4
+11/18/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.243317 ‐97.729603 30.23305 ‐97.716255 114
+11/7/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.245337 ‐97.725151 30.244933 ‐97.727666 3
+11/19/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.260097 ‐97.711761 30.26169 ‐97.722302 3
+11/12/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.263568 ‐97.727402 30.264205 ‐97.728251 3
+11/7/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.252109 ‐97.736886 30.255924 ‐97.739802 25
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.271313 ‐97.741599 30.271202 ‐97.741637 6
+11/2/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+throttle/accelerator 30.258462 ‐97.704867 30.278773 ‐97.728343 262
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+throttle/accelerator 30.259648 ‐97.747467 30.263833 ‐97.74393 19
+11/8/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+wheel_issues 30.266247 ‐97.748487 30.265787 ‐97.745365 6
+11/22/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.266079 ‐97.742208 30.255423 ‐97.710947 107
+11/22/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+wheel_issues 30.271926 ‐97.754856 30.269499 ‐97.749601 6
+11/1/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.265668 ‐97.748863 30.275326 ‐97.746234 100
+11/21/2021 Austin
+Malfunctioned
+scooter
+damaged_vehicle__
+wheel_issues 30.266795 ‐97.745274 30.262 ‐97.7294 314
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.268069 ‐97.752855 30.267575 ‐97.751353 177
+11/24/2021 Austin
+I couldn't start my
+trip
+damaged_vehicle__
+wheel_issues 30.262392 ‐97.737643 30.262392 ‐97.737643 172
+11/16/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.266257 ‐97.743238 30.229655 ‐97.781639 55
+11/2/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+wheel_issues 30.263877 ‐97.732373 30.26376 ‐97.731953 39
+11/26/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.236038 ‐97.722596 30.241695 ‐97.728205 61
+11/4/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.253857 ‐97.738134 30.261816 ‐97.73915 5
+11/20/2021 Austin
+Phone Call from:
+Caller +1 (512) 920‐
+9403
+damaged_vehicle__
+wheel_issues 30.248522 ‐97.728268 30.248647 ‐97.728445 46
+11/4/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.278753 ‐97.714786 30.278102 ‐97.71476 29
+11/21/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+wheel_issues 30.262793 ‐97.731387 30.26764 ‐97.75205 5
+11/11/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.265283 ‐97.741745 30.275913 ‐97.720435 33
+11/26/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.265221 ‐97.762639 30.265049 ‐97.762393 12
+11/21/2021 Austin
+Handlebar/wheel
+misaligned
+damaged_vehicle__
+wheel_issues 30.26462 ‐97.73814 30.264274 ‐97.73356 7
+11/28/2021 Austin
+Re: Ride pass and
+bike had flat tire.
+damaged_vehicle__
+wheel_issues 30.25408 ‐97.739014 30.25432 ‐97.73875 163
+11/17/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+wheel_issues 30.253393 ‐97.748509 30.25681 ‐97.74674 106
+11/1/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.261933 ‐97.739028 30.253478 ‐97.765429 320
+11/21/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+wheel_issues 30.249858 ‐97.723705 30.249815 ‐97.723653 6
+11/6/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.265568 ‐97.746406 30.265857 ‐97.745644 329
+11/21/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.265823 ‐97.745033 30.275993 ‐97.757301 75
+11/10/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.260863 ‐97.70349 30.257905 ‐97.714665 2
+11/30/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.251584 ‐97.721379 30.254149 ‐97.728189 65
+11/18/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.262064 ‐97.727091 30.265282 ‐97.740192 36
+11/15/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.291398 ‐97.747437 30.2951 ‐97.74314 11
+11/2/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.289609 ‐97.741309 30.289741 ‐97.741336 34
+11/8/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.291418 ‐97.742897 30.284128 ‐97.74201 4
+11/18/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.264731 ‐97.74458 30.261426 ‐97.722748 11
+11/6/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.265732 ‐97.749151 30.255907 ‐97.712145 11
+11/16/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.238778 ‐97.754611 30.233049 ‐97.762804 113
+11/18/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.267582 ‐97.693275 30.261308 ‐97.697668 18
+11/21/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.249835 ‐97.723653 30.251055 ‐97.718608 5
+11/5/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.365455 ‐97.716568 30.369018 ‐97.71807 2
+11/13/2021 Austin
+The tire was
+completely flat
+damaged_vehicle__
+wheel_issues 30.276633 ‐97.742285 30.277075 ‐97.74211 1274
+11/18/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.276912 ‐97.70856 30.269803 ‐97.701385 4
+11/2/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.283794 ‐97.741865 30.293043 ‐97.74412 9
+11/12/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+wheel_issues 30.26279 ‐97.70459 30.265517 ‐97.744493 202
+11/16/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.291131 ‐97.749424 30.283744 ‐97.742076 2
+11/13/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+wheel_issues 30.270168 ‐97.75095 30.26764 ‐97.74688 44
+11/29/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.261175 ‐97.727474 30.257805 ‐97.704583 9
+11/4/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+damaged_vehicle__
+wheel_issues 30.270642 ‐97.755983 30.270692 ‐97.75599 17
+11/17/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.257657 ‐97.714939 30.267908 ‐97.69385 47
+11/21/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.254088 ‐97.73722 30.252135 ‐97.736045 13
+11/2/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.297972 ‐97.704276 30.30152 ‐97.697958 6
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.261859 ‐97.749098 30.261117 ‐97.749068 4
+11/15/2021 Austin
+My vehicle was
+broken or stopped
+working
+damaged_vehicle__
+wheel_issues 30.217499 ‐97.690948 30.251073 ‐97.731753 18
+11/26/2021 Austin
+I couldn't start my
+trip
+damaged_vehicle__
+wheel_issues 30.261795 ‐97.739047 30.261808 ‐97.739103 6
+11/25/2021 Austin Thank you! general__feedback 30.276565 ‐97.743675 30.27018 ‐97.750711 18
+11/9/2021 Austin
+Issue with picking
+up general__feedback 1161
+11/10/2021 Austin
+Phone Call from:
+Caller +1 (210) 910‐
+6314 general__feedback 30.266394 ‐97.737352 30.265485 ‐97.737513 14
+11/20/2021 Austin
+I was charged
+incorrectly general__feedback 30.269279 ‐97.737201 30.262715 ‐97.738478 593
+11/18/2021 Austin
+Cancel this
+membership general__feedback 79
+11/7/2021 Austin
+Payment for
+charged scooters general__feedback 84
+11/10/2021 Austin
+Partnering with
+Lime
+general__inquiries_
+related_to_lime 14
+11/28/2021 Austin
+Voicemail from:
+Caller +1 (512) 839‐
+6928
+general__inquiries_
+related_to_lime 2451
+11/25/2021 Austin
+I donâ€™t know
+how to get it started
+general__inquiries_
+related_to_lime 35
+11/16/2021 Austin
+Transactions Keep
+Failing
+general__inquiries_
+related_to_lime 39
+11/14/2021 Austin
+Message from: Text
+user: +18474313420
+general__inquiries_
+related_to_lime 94
+11/9/2021 Austin
+RE: Lime Electric
+Bikes
+general__inquiries_
+related_to_lime 3015
+11/4/2021 Austin Lime Electric Bikes
+general__inquiries_
+related_to_lime 727
+11/12/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+general__inquiries_
+related_to_lime 30.266509 ‐97.744378 30.25098 ‐97.74927 28
+11/1/2021 Austin
+Phone Call from:
+Lime Rider
+general__inquiries_
+related_to_lime 2
+11/14/2021 Austin
+Chance payment
+method
+general__inquiries_
+related_to_lime 527
+11/9/2021 Austin
+Extra charge after 3
+days of my ride
+general__inquiries_
+related_to_lime 159
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working
+general__inquiries_
+related_to_lime 30.263979 ‐97.74293 30.25811 ‐97.727534 7
+11/26/2021 Austin
+Account profile
+errors
+general__inquiries_
+related_to_lime 2384
+11/11/2021 Austin
+Request for a
+discussion on the
+best practices by
+Lime
+general__inquiries_
+related_to_lime 25355
+11/23/2021 Austin
+Phone Call from:
+Caller +1 (972) 330‐
+9912
+general__inquiries_
+related_to_lime 30.292863 ‐97.744229 30.284257 ‐97.74498 5
+11/27/2021 Austin Lime scooter
+general__inquiries_
+related_to_lime 4315
+11/15/2021 Austin
+Re: Partnering with
+Lime
+general__inquiries_
+related_to_lime 53
+11/22/2021 Austin
+Please
+cancel/transfer
+account
+general__inquiries_
+related_to_lime
+11/14/2021 Austin
+How do I get Line
+scooters in my
+neighborhood?
+general__inquiries_
+related_to_lime 448
+11/17/2021 Austin
+Phone Call from:
+Caller +1 (512) 865‐
+1747
+general__wrong_nu
+mber_/_disconnect
+ed_call_/_empty_ti
+cket 6
+11/17/2021 Austin
+Phone Call from:
+Caller +1 (512) 865‐
+1747
+general__wrong_nu
+mber_/_disconnect
+ed_call_/_empty_ti
+cket 2
+11/6/2021 Austin
+Private property
+damage
+incident__damage_
+to_private_property 2499
+11/6/2021 Austin
+Phone Call from:
+Caller +1 (205) 886‐
+8356
+incident__damage_
+to_private_property 15
+11/8/2021 Austin Vehicle damage
+incident__damage_
+to_private_property 11732
+11/5/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+incident__inappropr
+iate_use__other 30.289663 ‐97.741154 30.26495 ‐97.72918 381
+11/5/2021 Austin
+Did not use or
+authorize
+incident__inappropr
+iate_use__other 16
+11/17/2021 Austin
+Juicers continue to
+charge at our
+private scooter dock
+in our garage
+incident__inappropr
+iate_use__other 654
+11/6/2021 Austin
+Phone Call from:
+Caller +1 (512) 497‐
+2498
+incident__police_/_
+gov_reporting_impr
+oper_vehicle_locati
+on 4
+11/10/2021 Austin
+Phone Call from:
+Caller +1 (423) 608‐
+9540
+incident__police_/_
+gov_reporting_impr
+oper_vehicle_locati
+on 87
+11/7/2021 Austin
+Re: Request
+#10884711: How
+would you rate the
+support you
+received from Lime?
+incident__police_/_
+gov_reporting_impr
+oper_vehicle_locati
+on 15
+11/10/2021 Austin
+Phone Call from:
+Caller +1 (205) 907‐
+7775
+incident__police_/_
+gov_reporting_impr
+oper_vehicle_locati
+on 4
+11/9/2021 Austin Bent wheel
+incident__police_/_
+gov_reporting_impr
+oper_vehicle_locati
+on 21
+11/12/2021 Austin Lime Graveyard
+incident__police_/_
+gov_reporting_impr
+oper_vehicle_locati
+on
+11/1/2021 Austin
+Phone Call from:
+Caller +1 (512) 478‐
+7219
+incident__police_/_
+gov_reporting_impr
+oper_vehicle_locati
+on 101
+11/9/2021 Austin
+Scooters littered
+everywhere
+incident__police_/_
+gov_reporting_impr
+oper_vehicle_locati
+on 325
+11/1/2021 Austin
+Re: Request
+#10815179: How
+would you rate the
+support you
+received from Lime?
+incident__police_/_
+gov_reporting_impr
+oper_vehicle_locati
+on 1099
+11/13/2021 Austin
+Phone Call from:
+Caller +1 (512) 484‐
+0574
+incident__police_/_
+gov_reporting_impr
+oper_vehicle_locati
+on 3
+11/30/2021 Austin
+Phone Call from:
+Caller +1 (512) 484‐
+0574
+incident__user_rep
+orting_improper_ve
+hicle_location 6
+11/13/2021 Austin
+Half Destroyed
+Scooter Lying next
+to Building
+incident__user_rep
+orting_improper_ve
+hicle_location 27
+11/2/2021 Austin Illegal Parking
+incident__user_rep
+orting_improper_ve
+hicle_location 6
+11/4/2021 Austin Illegal Parking
+incident__user_rep
+orting_improper_ve
+hicle_location 2
+11/5/2021 Austin Illegal Parking
+incident__user_rep
+orting_improper_ve
+hicle_location 30.262093 ‐97.720756 30.26202 ‐97.720623 116
+11/10/2021 Austin Illegal Parking
+incident__user_rep
+orting_improper_ve
+hicle_location 30.279459 ‐97.722964 30.278276 ‐97.729117 8
+11/13/2021 Austin Illegal Parking
+incident__user_rep
+orting_improper_ve
+hicle_location 30.277759 ‐97.735572 30.280705 ‐97.738081 59
+11/22/2021 Austin
+Charged Scooters
+Set Up Inside
+Parking Lot by
+Scooter Charger
+incident__user_rep
+orting_improper_ve
+hicle_location 494
+11/23/2021 Austin
+Fwd: Lime Bike
+Found ‐ 22285
+incident__user_rep
+orting_improper_ve
+hicle_location 246
+11/14/2021 Austin
+So cool how this is
+every steeet corner
+in downtown
+Austin. I also love
+that I canâ€™t walk
+my dog to the river
+anymore, because
+of all the dipshit
+kids barreling down
+1st st on the
+sidewalks. Your
+business is a cancer
+https://t.co/SEA4Flt
+pVC
+incident__user_rep
+orting_improper_ve
+hicle_location 464
+11/13/2021 Austin Illegal Parking
+incident__user_rep
+orting_improper_ve
+hicle_location 30.267342 ‐97.742997 30.257238 ‐97.778843 152
+11/16/2021 Austin Illegal Parking
+incident__user_rep
+orting_improper_ve
+hicle_location 3
+11/16/2021 Austin
+bicycle parked on
+street (curb) for a
+couple of weeks ‐
+not used
+incident__user_rep
+orting_improper_ve
+hicle_location 54
+11/30/2021 Austin
+Phone Call from:
+Caller +1 (512) 484‐
+0574
+incident__user_rep
+orting_improper_ve
+hicle_location 8
+11/12/2021 Austin
+non‐working Lime
+bike parked in grass
+at apartment
+complex
+incident__user_rep
+orting_improper_ve
+hicle_location 383
+11/3/2021 Austin Lime Graveyard
+incident__user_rep
+orting_improper_ve
+hicle_location 152
+11/8/2021 Austin
+Found 2 likely been
+lost for a while
+incident__user_rep
+orting_improper_ve
+hicle_location 571
+11/19/2021 Austin
+Phone Call from:
+Caller +1 (512) 699‐
+5296
+incident__user_rep
+orting_improper_ve
+hicle_location 5
+11/9/2021 Austin
+Lime Scooter on
+Front Lawn
+incident__user_rep
+orting_improper_ve
+hicle_location 42
+11/21/2021 Austin
+More than 40
+vehicle's improperly
+parked around 50...
+incident__user_rep
+orting_improper_ve
+hicle_location 341
+11/12/2021 Austin
+Phone Call from:
+Caller +1 (512) 496‐
+9568
+incident__user_rep
+orting_improper_ve
+hicle_location 2
+11/30/2021 Austin
+Green task Scooters
+moving around
+town
+incident__user_rep
+orting_improper_ve
+hicle_location 127
+11/7/2021 Austin Illegal Parking
+incident__user_rep
+orting_improper_ve
+hicle_location 433
+11/29/2021 Austin Re: 2019 1099
+payments_/_balanc
+e__taxation_/_empl
+oyment_condition_r
+elated_inquiry
+11/23/2021 Austin
+I was charged
+incorrectly
+payments/balance_
+_settle_arrears 30.28139 ‐97.723537 30.261879 ‐97.719173 27
+11/23/2021 Austin
+Unsuccessful
+transaction
+payments/balance_
+_settle_arrears 30.28139 ‐97.723537 30.261879 ‐97.719173 143
+11/3/2021 Austin
+Charged incorrectly
+11.66$ plus my
+actual bill
+payments/balance_
+_settle_arrears 8
+11/13/2021 Austin
+I was charged
+incorrectly
+payments/balance_
+_settle_arrears 30.271911 ‐97.741571 30.271897 ‐97.741286 180
+11/26/2021 Austin
+Phone Call from:
+Caller +1 (512) 806‐
+3378
+payments/balance_
+_settle_arrears 7
+11/17/2021 Austin
+I couldn't start my
+trip
+payments/balance_
+_temporary/authori
+zation_hold 140
+11/28/2021 Austin Group ride pass
+payments/balance_
+_temporary/authori
+zation_hold 46
+11/16/2021 Austin
+Nem tudtam
+befejezni az utamat
+payments/balance_
+_temporary/authori
+zation_hold 30.240354 ‐97.736446 55
+11/5/2021 Austin
+Phone Call from:
+Caller +1 (737) 247‐
+2126
+payments/balance_
+_temporary/authori
+zation_hold 17
+11/1/2021 Austin
+Phone Call from:
+Caller +1 (737) 900‐
+3193
+payments/balance_
+_temporary/authori
+zation_hold 6
+11/1/2021 Austin
+Phone Call from:
+Caller +1 (737) 900‐
+3193
+payments/balance_
+_temporary/authori
+zation_hold 7
+11/1/2021 Austin
+I was unable to end
+my ride
+payments/balance_
+_temporary/authori
+zation_hold 30.272259 ‐97.737319 114
+11/6/2021 Austin
+Pass for 2 wont let
+second rider ride
+payments/balance_
+_temporary/authori
+zation_hold 471
+11/16/2021 Austin
+Nem tudtam
+befejezni az utamat
+payments/balance_
+_temporary/authori
+zation_hold 30.240354 ‐97.736446 54
+11/23/2021 Austin
+Phone Call from:
+Caller +1 (404) 661‐
+6086
+payments/balance_
+_temporary/authori
+zation_hold 4
+11/6/2021 Austin
+Phone Call from:
+Caller +1 (737) 247‐
+2126
+payments/balance_
+_temporary/authori
+zation_hold 13
+11/1/2021 Austin
+I was unable to end
+my ride
+payments/balance_
+_temporary/authori
+zation_hold 30.272259 ‐97.737319 98
+11/20/2021 Austin Scooter
+payments/balance_
+_temporary/authori
+zation_hold 284
+11/17/2021 Austin
+Phone Call from:
+Caller +1 (737) 864‐
+4511
+payments/balance_
+_temporary/authori
+zation_hold 4
+11/29/2021 Austin
+I was unable to end
+my ride
+payments/balance_
+_temporary/authori
+zation_hold 30.268702 ‐97.745197 170
+11/1/2021 Austin C Washington
+payments/balance_
+_temporary/authori
+zation_hold 35
+11/28/2021 Austin
+LIME : Ride Pass
+Refund
+payments/balance_
+_temporary/authori
+zation_hold 38
+11/5/2021 Austin
+Phone Call from:
+Caller +1 (254) 393‐
+4873
+payments/balance_
+_temporary/authori
+zation_hold 5
+11/25/2021 Austin
+Phone Call from:
+Caller +1 (325) 248‐
+4945
+payments/balance_
+_temporary/authori
+zation_hold 22
+11/28/2021 Austin
+Phone Call from:
+Caller +1 (737) 708‐
+5074
+payments/balance_
+_temporary/authori
+zation_hold 11
+11/12/2021 Austin
+Phone Call from:
+Caller +1 (512) 779‐
+4216
+payments/balance_
+_temporary/authori
+zation_hold 7
+11/14/2021 Austin Lime charge
+payments/balance_
+_temporary/authori
+zation_hold 194
+11/19/2021 Austin
+Phone Call from:
+Caller +1 (737) 270‐
+5325
+payments/balance_
+_temporary/authori
+zation_hold 22
+11/14/2021 Austin
+Phone Call from:
+Caller +1 (786) 569‐
+5031
+payments/balance_
+_temporary/authori
+zation_hold 10
+11/5/2021 Austin
+Re: 50% off next 3
+trips are on us!
+promotions__prom
+o_code_/_referral_c
+oupon_issue 191
+11/26/2021 Austin
+Fwd: Receipt for
+your Lime ride
+promotions__prom
+o_code_/_referral_c
+oupon_issue 30.26508 ‐97.758275 30.264349 ‐97.748532 1628
+11/13/2021 Austin
+Re: Did not receive
+promo code
+promotions__prom
+o_code_/_referral_c
+oupon_issue 124
+11/13/2021 Austin
+Did not receive
+promo code
+promotions__prom
+o_code_/_referral_c
+oupon_issue 3037
+11/15/2021 Austin
+Phone Call from:
+Caller +1 (908) 392‐
+6022
+promotions__prom
+o_code_/_referral_c
+oupon_issue 30.262528 ‐97.754047 30.263323 ‐97.75433 7
+11/1/2021 Austin
+$5 promo code was
+wasted on scooter
+that didn't work...
+promotions__prom
+o_code_/_referral_c
+oupon_issue 479
+11/22/2021 Austin
+I was charged
+incorrectly
+promotions__prom
+o_code_/_referral_c
+oupon_issue 30.277769 ‐97.736655 30.265189 ‐97.739972 18
+11/20/2021 Austin Promo not applied
+promotions__prom
+o_code_/_referral_c
+oupon_issue 225
+11/12/2021 Austin
+Ride Pass Charge
+Error
+promotions__revok
+ed_ridepass_limepri
+me 83
+11/5/2021 Austin
+Ride Pass Selected
+but Not Honored
+promotions__revok
+ed_ridepass_limepri
+me 63
+11/26/2021 Austin New rental
+promotions__revok
+ed_ridepass_limepri
+me 44
+11/19/2021 Austin
+Phone Call from:
+Caller +1 (512) 774‐
+7973
+promotions__ridepa
+ss_limeprime_relate
+d_issue 8
+11/28/2021 Austin Renewal
+promotions__ridepa
+ss_limeprime_relate
+d_issue 29
+11/18/2021 Austin Cancel
+promotions__ridepa
+ss_limeprime_relate
+d_issue 58
+11/26/2021 Austin
+Re: Your Ride Pass
+Purchase
+promotions__ridepa
+ss_limeprime_relate
+d_issue 4323
+11/28/2021 Austin
+cancel lime prime
+membership
+promotions__ridepa
+ss_limeprime_relate
+d_issue 3
+11/29/2021 Austin Refund
+promotions__ridepa
+ss_limeprime_relate
+d_issue 30
+11/20/2021 Austin
+Lime Prime
+Membership
+promotions__ridepa
+ss_limeprime_relate
+d_issue 13
+11/21/2021 Austin Could not ride
+promotions__ridepa
+ss_limeprime_relate
+d_issue 28
+11/21/2021 Austin
+Couldn't get any of
+the scooters to
+work
+promotions__ridepa
+ss_limeprime_relate
+d_issue 127
+11/16/2021 Austin Account Activity
+promotions__ridepa
+ss_limeprime_relate
+d_issue 56
+11/23/2021 Austin
+I was charged
+incorrectly
+promotions__ridepa
+ss_limeprime_relate
+d_issue 30.262377 ‐97.7445 30.25406 ‐97.738422 30
+11/23/2021 Austin
+Cancel my
+subscription
+promotions__ridepa
+ss_limeprime_relate
+d_issue 33
+11/10/2021 Austin Would like a refund.
+promotions__ridepa
+ss_limeprime_relate
+d_issue 99
+11/17/2021 Austin Cancel lime prime
+promotions__ridepa
+ss_limeprime_relate
+d_issue 6
+11/6/2021 Austin
+Bought a ride pass
+in error when
+signing up.
+promotions__ridepa
+ss_limeprime_relate
+d_issue 4
+11/8/2021 Austin
+Please cancel I don't
+ride your piece of
+shit scoo...
+promotions__ridepa
+ss_limeprime_relate
+d_issue 7
+11/26/2021 Austin
+Charge but no
+subscription
+promotions__ridepa
+ss_limeprime_relate
+d_issue 54
+11/21/2021 Austin
+Cancellation
+request
+promotions__ridepa
+ss_limeprime_relate
+d_issue 777
+11/21/2021 Austin
+Please stop the
+charge
+promotions__ridepa
+ss_limeprime_relate
+d_issue 24
+11/21/2021 Austin Was charged twice
+promotions__ridepa
+ss_limeprime_relate
+d_issue 9
+11/21/2021 Austin Lime Prime
+promotions__ridepa
+ss_limeprime_relate
+d_issue 6
+11/22/2021 Austin Cancel
+promotions__ridepa
+ss_limeprime_relate
+d_issue 36
+11/30/2021 Austin lime membership
+promotions__ridepa
+ss_limeprime_relate
+d_issue 6
+11/6/2021 Austin
+I bought passes but
+canâ€™t use them
+promotions__ridepa
+ss_limeprime_relate
+d_issue 82
+11/27/2021 Austin Subscription to Lime
+promotions__ridepa
+ss_limeprime_relate
+d_issue 18
+11/9/2021 Austin
+Lime prime
+subscription never
+want. Please
+unsubscribe
+promotions__ridepa
+ss_limeprime_relate
+d_issue 5
+11/26/2021 Austin Refund
+promotions__ridepa
+ss_limeprime_relate
+d_issue 30.26297 ‐97.726417 30.245069 ‐97.750685 3486
+11/23/2021 Austin
+I was charged
+incorrectly
+promotions__ridepa
+ss_limeprime_relate
+d_issue 30.267369 ‐97.743526 30.266297 ‐97.735102 122
+11/6/2021 Austin
+Saying I have no
+funds
+promotions__ridepa
+ss_limeprime_relate
+d_issue 94
+11/15/2021 Austin
+Question about my
+subscription
+promotions__ridepa
+ss_limeprime_relate
+d_issue 6
+11/6/2021 Austin
+Phone Call from:
+Caller +1 (512) 659‐
+1731
+promotions__ridepa
+ss_limeprime_relate
+d_issue 30.274261 ‐97.691124 30.273975 ‐97.690942 23
+11/1/2021 Austin
+Phone Call from:
+Caller +1 (832) 444‐
+7387
+promotions__ridepa
+ss_limeprime_relate
+d_issue 30.272755 ‐97.740706 30.257437 ‐97.737818 8
+11/16/2021 Austin
+I keep getting
+charged ‐ need
+refund
+promotions__ridepa
+ss_limeprime_relate
+d_issue 52
+11/4/2021 Austin
+Phone Call from:
+Caller +1 (737) 701‐
+3541
+promotions__ridepa
+ss_limeprime_relate
+d_issue 5
+11/4/2021 Austin Cancel Lime Prime
+promotions__ridepa
+ss_limeprime_relate
+d_issue 26
+11/14/2021 Austin
+Regarding ride pass
+refund
+promotions__ridepa
+ss_limeprime_relate
+d_issue 30.268422 ‐97.742807 30.268553 ‐97.744058 11
+11/9/2021 Austin Lime Prime
+promotions__ridepa
+ss_limeprime_relate
+d_issue 267
+11/6/2021 Austin
+I was charged
+incorrectly
+promotions__ridepa
+ss_limeprime_relate
+d_issue 84
+11/6/2021 Austin
+Refund on 24 hour
+ride pass
+promotions__ridepa
+ss_limeprime_relate
+d_issue 1105
+11/14/2021 Austin
+Phone Call from:
+Caller +1 (737) 239‐
+5400
+promotions__ridepa
+ss_limeprime_relate
+d_issue 4
+11/29/2021 Austin
+Regarding the
+refund for ride pass
+promotions__ridepa
+ss_limeprime_relate
+d_issue 3
+11/25/2021 Austin
+How do I cancel this
+membership?
+promotions__ridepa
+ss_limeprime_relate
+d_issue 3
+11/7/2021 Austin Lime prime charge
+promotions__ridepa
+ss_limeprime_relate
+d_issue 34
+11/5/2021 Austin
+I did not purchase
+lime prime
+promotions__ridepa
+ss_limeprime_relate
+d_issue 5
+11/23/2021 Austin
+I was charged for a
+recurring fee and I
+also broke my
+tailbone using it
+ONCE
+promotions__ridepa
+ss_limeprime_relate
+d_issue 30.266293 ‐97.740617 30.245897 ‐97.768894 187
+11/28/2021 Austin
+I thought I had
+canceled my
+membership with
+lime p...
+promotions__ridepa
+ss_limeprime_relate
+d_issue 16
+11/27/2021 Austin Lime prime refund
+promotions__ridepa
+ss_limeprime_relate
+d_issue 4
+11/20/2021 Austin
+Phone Call from:
+Caller +1 (212) 203‐
+9692
+promotions__ridepa
+ss_limeprime_relate
+d_issue 2
+11/14/2021 Austin Ride pass
+promotions__ridepa
+ss_limeprime_relate
+d_issue 269
+11/9/2021 Austin
+Charged for Lime
+Pass
+promotions__ridepa
+ss_limeprime_relate
+d_issue 3
+11/15/2021 Austin
+Like prime
+membership
+promotions__ridepa
+ss_limeprime_relate
+d_issue 51
+11/14/2021 Austin
+My ride pass got
+activated after my
+ride is completed
+promotions__ridepa
+ss_limeprime_relate
+d_issue 30.268327 ‐97.743874 30.268755 ‐97.744441 7
+11/22/2021 Austin Lime pass
+promotions__ridepa
+ss_limeprime_relate
+d_issue 30.273926 ‐97.745236 30.263372 ‐97.76301 14
+11/1/2021 Austin
+Help request
+(#10877105) PLEASE
+ESCALATE!
+promotions__ridepa
+ss_limeprime_relate
+d_issue 37979
+11/16/2021 Austin Refund
+promotions__ridepa
+ss_limeprime_relate
+d_issue 10
+11/9/2021 Austin Ride pass
+promotions__ridepa
+ss_limeprime_relate
+d_issue 22
+11/7/2021 Austin
+Never purchased
+lime pass
+promotions__ridepa
+ss_limeprime_relate
+d_issue 2
+11/15/2021 Austin
+Please cancel my
+subscription
+promotions__ridepa
+ss_limeprime_relate
+d_issue 12
+11/8/2021 Austin
+I was charged
+incorrectly
+promotions__ridepa
+ss_limeprime_relate
+d_issue 30.257803 ‐97.74086 30.252662 ‐97.737342 53
+11/14/2021 Austin
+Ride pass activation
+after completion of
+the ride
+promotions__ridepa
+ss_limeprime_relate
+d_issue 30.268505 ‐97.74345 30.268897 ‐97.74467 1250
+11/2/2021 Austin
+Need to cancel my
+subscription.
+promotions__ridepa
+ss_limeprime_relate
+d_issue 9
+11/25/2021 Austin Pass not available
+promotions__ridepa
+ss_limeprime_relate
+d_issue 56
+11/6/2021 Austin
+Phone Call from:
+Caller +1 (254) 314‐
+9191
+promotions__ridepa
+ss_limeprime_relate
+d_issue 50
+11/3/2021 Austin PASS
+promotions__ridepa
+ss_limeprime_relate
+d_issue 38
+11/16/2021 Austin
+Phone Call from:
+Caller +1 (215) 510‐
+5838
+promotions__ridepa
+ss_limeprime_relate
+d_issue 8
+11/30/2021 Austin Cancel service
+promotions__ridepa
+ss_limeprime_relate
+d_issue 7
+11/29/2021 Austin
+I Would like a
+refund. I did not
+purchase the 24 h...
+promotions__ridepa
+ss_limeprime_relate
+d_issue 6
+11/27/2021 Austin
+RecibÃ‐ un cargo
+incorrecto
+refunds__incorrect_
+refund_received 30.435854 ‐98.012726 30.26113 ‐97.737624 77
+11/13/2021 Austin
+Re: Fwd: Receipt for
+your Lime ride
+refunds__incorrect_
+refund_received 30.268948 ‐97.73631 30.269001 ‐97.736371 934
+11/4/2021 Austin Broken ride
+refunds__incorrect_
+refund_received 30.258688 ‐97.738938 30.265403 ‐97.738501 72
+11/15/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.25783 ‐97.749802 30.269876 ‐97.749484 12
+11/18/2021 Austin Overcharge
+refunds__incorrect_
+refund_received 30.260275 ‐97.738421 30.265292 ‐97.741435 265
+11/13/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.263009 ‐97.742112 30.263742 ‐97.734732 209
+11/12/2021 Austin Over charge
+refunds__incorrect_
+refund_received 30.26777 ‐97.742589 30.266728 ‐97.735332 373
+11/6/2021 Austin
+Phone Call from:
+Lime Rider
+refunds__incorrect_
+refund_received 30.274702 ‐97.735373 30.272709 ‐97.737194 7
+11/15/2021 Austin
+I donâ€™t know
+why Iâ€™m getting
+charged but I need
+fo...
+refunds__incorrect_
+refund_received 1328
+11/1/2021 Austin Double charged
+refunds__incorrect_
+refund_received 330
+11/22/2021 Austin Facturation
+refunds__incorrect_
+refund_received 2667
+11/22/2021 Austin
+terrible user
+experience
+refunds__incorrect_
+refund_received 30.267208 ‐97.754923 30.26709 ‐97.754898 73
+11/15/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.236043 ‐97.757412 30.243298 ‐97.751878 39
+11/14/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.270731 ‐97.742293 30.268656 ‐97.73707 81
+11/15/2021 Austin
+Was only supposed
+to be charged 11.99
+x 2 rides. ...
+refunds__incorrect_
+refund_received 30.263214 ‐97.744414 30.284014 ‐97.739857 763
+11/15/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.262638 ‐97.708696 30.257779 ‐97.71458 113
+11/17/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.24365 ‐97.729598 30.272448 ‐97.741045 11
+11/28/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.263842 ‐97.74354 30.256962 ‐97.738907 36
+11/30/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.296967 ‐97.742691 30.259144 ‐97.738306 79
+11/29/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+refunds__incorrect_
+refund_received 30.27023 ‐97.75454 30.27034 ‐97.754332 9
+11/27/2021 Austin
+i was double
+charged for a group
+ride that i paid ...
+refunds__incorrect_
+refund_received 157
+11/5/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.267047 ‐97.742635 30.269763 ‐97.749011 267
+11/20/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.262563 ‐97.741016 30.264839 ‐97.743252 249
+11/24/2021 Austin
+I couldn't start my
+trip
+refunds__incorrect_
+refund_received 30.26835 ‐97.742669 30.26814 ‐97.742431 7
+11/19/2021 Austin
+Incorrectly charged
+for scooter ride
+refunds__incorrect_
+refund_received 30.269675 ‐97.742661 30.262943 ‐97.7409 113
+11/23/2021 Austin
+Was charged for a
+group ride instead
+of solo with ride
+pass
+refunds__incorrect_
+refund_received 125
+11/26/2021 Austin
+Iâ€™ve been getting
+charge for rides
+Iâ€™ve never take...
+refunds__incorrect_
+refund_received 79
+11/16/2021 Austin
+Phone Call from:
+Caller +1 (832) 977‐
+5064
+refunds__incorrect_
+refund_received 1398
+11/24/2021 Austin
+Phone Call from:
+Caller +1 (254) 499‐
+5208
+refunds__incorrect_
+refund_received 6
+11/24/2021 Austin
+Re: Did not sign up
+for lime prime and
+want to cancel
+refunds__incorrect_
+refund_received 162
+11/12/2021 Austin
+Phone Call from:
+Caller +1 (512) 792‐
+7887
+refunds__incorrect_
+refund_received 15
+11/21/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.265007 ‐97.739925 30.274463 ‐97.752317 33
+11/8/2021 Austin
+I was unable to end
+my ride
+refunds__incorrect_
+refund_received 30.284047 ‐97.743061 30.285096 ‐97.732625 323
+11/6/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.272818 ‐97.737187 30.275391 ‐97.736259 59
+11/2/2021 Austin Refund
+refunds__incorrect_
+refund_received 30.269743 ‐97.744505 30.287315 ‐97.742789 300
+11/12/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.26069 ‐97.755499 30.263936 ‐97.747193 179
+11/26/2021 Austin No abanso nada
+refunds__incorrect_
+refund_received 11
+11/7/2021 Austin
+Was I charged
+incorrectly?
+refunds__incorrect_
+refund_received 17
+11/6/2021 Austin Lime cash
+refunds__incorrect_
+refund_received 367
+11/12/2021 Austin
+Charged for ride
+when scooter
+wouldnâ€™t start
+refunds__incorrect_
+refund_received 193
+11/14/2021 Austin Wrongful Charge
+refunds__incorrect_
+refund_received 68
+11/24/2021 Austin
+Re: Did not sign up
+for lime prime and
+want to cancel
+refunds__incorrect_
+refund_received 175
+11/2/2021 Austin Random charges
+refunds__incorrect_
+refund_received 30.262212 ‐97.724409 30.266648 ‐97.718944 70
+11/5/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.25997 ‐97.754307 30.259152 ‐97.746726 65
+11/5/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.25997 ‐97.754307 30.259152 ‐97.746726 59
+11/4/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.290808 ‐97.745693 30.290698 ‐97.748414 272
+11/17/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.249847 ‐97.749869 30.249985 ‐97.749992 145
+11/6/2021 Austin
+Dissappointing first
+ride
+refunds__incorrect_
+refund_received 403
+11/22/2021 Austin
+Phone Call from:
+Caller +1 (512) 774‐
+7973
+refunds__incorrect_
+refund_received 23
+11/2/2021 Austin
+Phone Call from:
+Caller +1 (737) 932‐
+5952
+refunds__incorrect_
+refund_received 7
+11/25/2021 Austin
+Why was this
+payment taken? I
+don't have my
+PayPal...
+refunds__incorrect_
+refund_received 2
+11/21/2021 Austin Charge
+refunds__incorrect_
+refund_received 36
+11/28/2021 Austin Charged incorrectly
+refunds__incorrect_
+refund_received 11
+11/15/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.27248 ‐97.740785 30.258546 ‐97.751085 26
+11/27/2021 Austin
+Phone Call from:
+Caller +1 (615) 260‐
+4801
+refunds__incorrect_
+refund_received 30.289037 ‐97.74156 30.289065 ‐97.741658 25
+11/14/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.275105 ‐97.761019 30.271511 ‐97.754457 12
+11/7/2021 Austin Charges
+refunds__incorrect_
+refund_received 30.279083 ‐97.742169 30.294496 ‐97.784459 116
+11/1/2021 Austin
+Phone Call from:
+Caller +1 (254) 479‐
+0331
+refunds__incorrect_
+refund_received 30.266415 ‐97.749001 30.26727 ‐97.747301 5
+11/11/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.246265 ‐97.751048 30.252454 ‐97.748824 53
+11/5/2021 Austin
+Phone Call from:
+Caller +1 (512) 792‐
+7887
+refunds__incorrect_
+refund_received 30.260122 ‐97.754653 13
+11/12/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.265917 ‐97.768326 30.265385 ‐97.751499 111
+11/13/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.269414 ‐97.743875 30.269383 ‐97.743721 3
+11/14/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.261946 ‐97.738916 30.267839 ‐97.742729 152
+11/7/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.262957 ‐97.73832 30.260338 ‐97.738565 268
+11/13/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.268501 ‐97.740329 30.270291 ‐97.73689 193
+11/5/2021 Austin Unfair charge
+refunds__incorrect_
+refund_received 30.257399 ‐97.73781 30.251372 ‐97.736421 585
+11/24/2021 Austin
+Charge not
+applicable
+refunds__incorrect_
+refund_received 138
+11/1/2021 Austin
+billing . incorrect
+billing
+refunds__incorrect_
+refund_received 1940
+11/5/2021 Austin
+Phone Call from:
+Caller +1 (512) 792‐
+7887
+refunds__incorrect_
+refund_received 9
+11/28/2021 Austin
+Says suspicious
+activity when
+adding card
+refunds__incorrect_
+refund_received 164
+11/15/2021 Austin Double charged
+refunds__incorrect_
+refund_received 97
+11/14/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.264803 ‐97.745968 30.25822 ‐97.750021 141
+11/6/2021 Austin Ride did not work
+refunds__incorrect_
+refund_received 30.2697 ‐97.747836 30.26934 ‐97.747448 390
+11/6/2021 Austin refund
+refunds__incorrect_
+refund_received 30.256857 ‐97.746741 30.256778 ‐97.746773 113
+11/13/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 34.045083 ‐118.253488 34.04025 ‐118.253415 299
+11/19/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.269828 ‐97.749657 30.266694 ‐97.745492 21
+11/16/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.294126 ‐97.744074 30.287998 ‐97.744773 129
+11/15/2021 Austin
+Phone Call from:
+Caller +1 (737) 864‐
+4511
+refunds__incorrect_
+refund_received 13
+11/10/2021 Austin Charge
+refunds__incorrect_
+refund_received 1056
+11/6/2021 Austin
+Phone Call from:
+Caller +1 (512) 659‐
+1731
+refunds__incorrect_
+refund_received 17
+11/12/2021 Austin
+Phone Call from:
+Caller +1 (541) 261‐
+3297
+refunds__incorrect_
+refund_received 6
+11/4/2021 Austin
+Phone Call from:
+Caller +1 (210) 296‐
+0858
+refunds__incorrect_
+refund_received 30.270722 ‐97.741974 30.256078 ‐97.761366 24
+11/13/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.276192 ‐97.714248 30.278587 ‐97.714913 311
+11/6/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.272721 ‐97.740607 30.264884 ‐97.737972 42
+11/7/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.268721 ‐97.727072 30.268988 ‐97.740945 295
+11/7/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.2758 ‐97.736014 30.275512 ‐97.737072 10
+11/12/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.265402 ‐97.739997 30.254926 ‐97.71855 49
+11/30/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.260206 ‐97.738652 30.266753 ‐97.738086 120
+11/10/2021 Austin
+Phone Call from:
+Caller +1 (737) 781‐
+9323
+refunds__incorrect_
+refund_received 6
+11/14/2021 Austin
+Incorrect charges ‐
+Need refund
+refunds__incorrect_
+refund_received 1604
+11/16/2021 Austin Incorrect Charge
+refunds__incorrect_
+refund_received 189
+11/9/2021 Austin
+Phone Call from:
+Caller +1 (208) 301‐
+1499
+refunds__incorrect_
+refund_received 8
+11/12/2021 Austin
+Phone Call from:
+Caller +1 (541) 261‐
+3297
+refunds__incorrect_
+refund_received 6
+11/10/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.267663 ‐97.742895 30.270259 ‐97.73015 171
+11/3/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.253838 ‐97.715239 30.254485 ‐97.716791 5
+11/7/2021 Austin
+Should not be
+charged
+refunds__incorrect_
+refund_received 30.256788 ‐97.746787 30.25683 ‐97.74678 11
+11/2/2021 Austin
+Phone Call from:
+Caller +1 (346) 857‐
+5245
+refunds__incorrect_
+refund_received 30.258402 ‐97.74618 30.247714 ‐97.733593 8
+11/1/2021 Austin
+Phone Call from:
+Caller +1 (917) 863‐
+9979
+refunds__incorrect_
+refund_received 30.27238 ‐97.74859 30.271603 ‐97.748961 9
+11/28/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 38.891958 ‐77.025888 38.888762 ‐77.031427 16
+11/1/2021 Austin
+Phone Call from:
+Caller +1 (737) 864‐
+4511
+refunds__incorrect_
+refund_received 5
+11/28/2021 Austin Group ride pass
+refunds__incorrect_
+refund_received 64
+11/1/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.267194 ‐97.74467 30.266238 ‐97.738578 261
+11/7/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.26416 ‐97.729625 30.268666 ‐97.737473 109
+11/5/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.277507 ‐97.742171 30.29343 ‐97.741974 15
+11/7/2021 Austin
+Purchased hour
+pass
+refunds__incorrect_
+refund_received 30.25218 ‐97.741614 30.252693 ‐97.741282 32
+11/6/2021 Austin
+RecibÃ‐ un cargo
+incorrecto
+refunds__incorrect_
+refund_received 30.268867 ‐97.742426 30.27531 ‐97.742927 1431
+11/15/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.261124 ‐97.755017 30.261255 ‐97.755317 99
+11/8/2021 Austin
+Payments and
+charges related
+refunds__incorrect_
+refund_received 327
+11/24/2021 Austin
+Phone Call from:
+Caller +1 (512) 796‐
+4955
+refunds__incorrect_
+refund_received 4
+11/7/2021 Austin
+Was charged and
+could not ride
+refunds__incorrect_
+refund_received 30.264738 ‐97.741961 30.264715 ‐97.741845 22
+11/10/2021 Austin Charged incorrectly
+refunds__incorrect_
+refund_received 30.26646 ‐97.74496 30.26686 ‐97.733795 154
+11/14/2021 Austin
+I had an incorrect
+charge
+refunds__incorrect_
+refund_received 30.272414 ‐97.737318 30.272505 ‐97.737579 133
+11/19/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.285215 ‐97.743987 30.28581 ‐97.743875 185
+11/25/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.280317 ‐97.736644 30.277464 ‐97.733108 26
+11/19/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.26674 ‐97.745059 30.271606 ‐97.747597 161
+11/29/2021 Austin
+Phone Call from:
+Caller +1 (360) 216‐
+3556
+refunds__incorrect_
+refund_received 30.257733 ‐97.726508 30.262565 ‐97.725297 11
+11/17/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.260068 ‐97.754821 30.261412 ‐97.759157 167
+11/5/2021 Austin
+Suspicious activity?
+Cannot preload?
+refunds__incorrect_
+refund_received 1779
+11/26/2021 Austin
+I was charged for
+both a $9.57 ride as
+well as a $...
+refunds__incorrect_
+refund_received 210
+11/4/2021 Austin Exceso de cobro
+refunds__incorrect_
+refund_received 18
+11/21/2021 Austin Was charged twice
+refunds__incorrect_
+refund_received 8
+11/2/2021 Austin
+My card was charge
+multiple times
+refunds__incorrect_
+refund_received 36105
+11/8/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.203088 ‐97.806166 30.165466 ‐97.808485 324
+11/8/2021 Austin
+Request for a ride
+pass on a previous
+ride
+refunds__incorrect_
+refund_received 30.25251 ‐97.748762 30.264469 ‐97.756194 75
+11/8/2021 Austin Wrongful Charge
+refunds__incorrect_
+refund_received 30.28462 ‐97.746567 30.265456 ‐97.73696 36
+11/2/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.258781 ‐97.747484 30.258113 ‐97.750542 4
+11/24/2021 Austin Overcharged
+refunds__incorrect_
+refund_received 30.273783 ‐97.742775 30.267695 ‐97.744229 65
+11/12/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.259957 ‐97.754841 30.2645 ‐97.771366 85
+11/22/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.258018 ‐97.739188 30.255868 ‐97.73865 43
+11/8/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.277749 ‐97.735262 30.279578 ‐97.73466 12
+11/1/2021 Austin
+Phone Call from:
+Caller +1 (254) 479‐
+0331
+refunds__incorrect_
+refund_received 66
+11/1/2021 Austin
+Phone Call from:
+Caller +1 (512) 792‐
+7887
+refunds__incorrect_
+refund_received 7
+11/6/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.272716 ‐97.737189 30.275373 ‐97.736339 46
+11/5/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.268571 ‐97.7451 30.267162 ‐97.744713 194
+11/8/2021 Austin
+Phone Call from:
+Caller +1 (214) 906‐
+8546
+refunds__incorrect_
+refund_received 30.265042 ‐97.743848 30.264249 ‐97.744054 9
+11/17/2021 Austin
+Lime scooter temp
+hold
+refunds__incorrect_
+refund_received ‐40.353502 175.61405 118
+11/2/2021 Austin
+I have a statement
+on my credit card
+from 11/1/21 ...
+refunds__incorrect_
+refund_received 7
+11/9/2021 Austin Pagos
+refunds__incorrect_
+refund_received 11
+11/2/2021 Austin Usage dispute
+refunds__incorrect_
+refund_received 112
+11/24/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.254635 ‐97.747919 30.247291 ‐97.750624 165
+11/6/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.264323 ‐97.75626 30.260224 ‐97.754696 833
+11/5/2021 Austin
+I couldn't start my
+trip
+refunds__incorrect_
+refund_received 30.267924 ‐97.741705 30.267626 ‐97.741615 1
+11/5/2021 Austin
+I had a mechanical
+issue with my
+vehicle
+refunds__incorrect_
+refund_received 30.267924 ‐97.741705 30.267626 ‐97.741615 3
+11/5/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.252286 ‐97.748802 30.259809 ‐97.738357 35
+11/3/2021 Austin
+Phone Call from:
+Caller +1 (737) 270‐
+4612
+refunds__incorrect_
+refund_received 30.269444 ‐97.746789 30.285791 ‐97.743327 6
+11/22/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.286617 ‐97.746281 30.279858 ‐97.735861 91
+11/7/2021 Austin
+charged me and
+ride wouldnâ€™t
+end
+refunds__incorrect_
+refund_received 331
+11/2/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 66
+11/13/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.260393 ‐97.725013 30.266893 ‐97.745607 225
+11/13/2021 Austin Cost dispute
+refunds__incorrect_
+refund_received 30.272581 ‐97.728169 30.280138 ‐97.725302 1076
+11/13/2021 Austin
+I purchased the $8
+for 1 hour and it
+charged the $...
+refunds__incorrect_
+refund_received 30.279477 ‐97.734651 30.246663 ‐97.753055 702
+11/5/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.260326 ‐97.73372 30.262291 ‐97.724647 436
+11/10/2021 Austin 24 hour pass
+refunds__incorrect_
+refund_received 30.274709 ‐97.731928 14
+11/1/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.288205 ‐97.747622 30.290693 ‐97.747814 5
+11/3/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.257798 ‐97.727089 30.305596 ‐97.749635 28
+11/4/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.272987 ‐97.741585 30.272792 ‐97.740985 1581
+11/24/2021 Austin
+My bike wonâ€™t
+move
+refunds__incorrect_
+refund_received 2
+11/25/2021 Austin
+Phone Call from:
+Caller +1 (512) 806‐
+3378
+refunds__incorrect_
+refund_received 440
+11/12/2021 Austin
+Did not sign up for
+lime prime and
+want to cancel
+refunds__incorrect_
+refund_received 193
+11/11/2021 Austin
+Phone Call from:
+Lime Rider
+refunds__incorrect_
+refund_received 6
+11/22/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.268024 ‐97.742472 30.267671 ‐97.737673 118
+11/23/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.262236 ‐97.727023 30.261938 ‐97.72713 158
+11/17/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.273271 ‐97.73097 30.267395 ‐97.734521 185
+11/22/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.277952 ‐97.736326 30.27791 ‐97.736542 67
+11/6/2021 Austin
+I was charged
+incorrectly
+refunds__incorrect_
+refund_received 30.226944 ‐97.761407 30.220936 ‐97.754696 358
+11/24/2021 Austin
+Phone Call from:
+Caller +1 (512) 793‐
+8481
+refunds__incorrect_
+refund_received 7
+11/17/2021 Austin
+Phone Call from:
+Caller +1 (714) 397‐
+9320
+refunds__incorrect_
+refund_received 5
+11/14/2021 Austin
+Fwd: Fwd: Receipt
+for your Lime ride
+refunds__incorrect_
+refund_received 237
+11/13/2021 Austin
+Overcharged due to
+inability to lock
+refunds__incorrect_
+refund_received 299
+11/9/2021 Austin
+Did not receive
+discounted rate and
+charged twice for
+lime bucks
+refunds__lime_wall
+et_refund_request 75
+11/11/2021 Austin Refund
+refunds__lime_wall
+et_refund_request 821
+11/1/2021 Austin Wrong payment
+refunds__lime_wall
+et_refund_request 8
+11/7/2021 Austin
+Hi yes I didn't want
+to purchase the $10
+lime cash...
+refunds__lime_wall
+et_refund_request 3
+11/6/2021 Austin
+Accidentally bought
+Lime Cash
+refunds__lime_wall
+et_refund_request 3
+11/16/2021 Austin
+Did not authorized
+auto reload
+refunds__lime_wall
+et_refund_request 29
+11/21/2021 Austin
+Lime Cash purchase
+error
+refunds__lime_wall
+et_refund_request 24
+11/12/2021 Austin
+Lime Cash Applied
+to Account but Does
+Not Work
+refunds__lime_wall
+et_refund_request 54
+11/8/2021 Austin
+Tried to add $10
+LIme Cash to my
+acct via Apple pa...
+refunds__lime_wall
+et_refund_request 355
+11/15/2021 Austin
+Adding money to
+lime account.
+refunds__lime_wall
+et_refund_request 92
+11/29/2021 Austin Payment declined
+refunds__lime_wall
+et_refund_request 45
+11/3/2021 Austin
+Refund ‐ Wouldn't
+accept account info
+refunds__lime_wall
+et_refund_request 12
+11/5/2021 Austin
+Forced to add more
+lime cash to my
+account that
+sufficient funds
+refunds__lime_wall
+et_refund_request 150
+11/4/2021 Austin
+Did not approve
+charge
+refunds__lime_wall
+et_refund_request 56
+11/2/2021 Austin Lime cash refund
+refunds__lime_wall
+et_refund_request 17
+11/29/2021 Austin REFUND LIME CASH
+refunds__lime_wall
+et_refund_request 31
+11/27/2021 Austin
+Refund or lime
+credit
+retail__troubleshoo
+ting 30.225831 ‐97.752096 30.226162 ‐97.752698 157
+11/15/2021 Austin
+Phone Call from:
+Caller +1 (412) 501‐
+7959
+trips_/_fares___vat
+/invoice_request 30.266348 ‐97.750696 30.266522 ‐97.755279 19
+11/22/2021 Austin
+Invoice/Itemized
+Receipts for 2 user
+accounts.
+trips_/_fares___vat
+/invoice_request 396
+11/6/2021 Austin
+I forgot to end my
+ride
+trips/fares__forgot_
+to_lock_vehicle 30.265568 ‐97.739685 30.265726 ‐97.739662 194
+11/16/2021 Austin
+I forgot to end my
+ride
+trips/fares__forgot_
+to_lock_vehicle 30.283913 ‐97.742738 30.283485 ‐97.733839 165
+11/13/2021 Austin Lock Problem
+trips/fares__forgot_
+to_lock_vehicle 256
+11/18/2021 Austin Lock Problem
+trips/fares__forgot_
+to_lock_vehicle 124
+11/18/2021 Austin Lock Problem
+trips/fares__forgot_
+to_lock_vehicle 88
+11/18/2021 Austin Lock Problem
+trips/fares__forgot_
+to_lock_vehicle 107
+11/30/2021 Austin Lock Problem
+trips/fares__forgot_
+to_lock_vehicle 14
+11/16/2021 Austin
+I was unable to end
+my ride
+trips/fares__forgot_
+to_lock_vehicle 30.263463 ‐97.730924 30.255395 ‐97.734775 53
+11/28/2021 Austin Lock Problem
+trips/fares__forgot_
+to_lock_vehicle 122
+11/14/2021 Austin
+Overcharged for
+group ride
+trips/fares__group_
+riding_issue 712
+11/7/2021 Austin
+Phone Call from:
+Caller +1 (512) 297‐
+3364
+trips/fares__group_
+riding_issue 30.281403 ‐97.741877 30.26841 ‐97.753902 22
+11/13/2021 Austin
+Phone Call from:
+Caller +1 (571) 309‐
+2192
+trips/fares__group_
+riding_issue 14
+11/7/2021 Austin
+Didn't receive 10
+min free
+trips/fares__group_
+riding_issue 1235
+11/17/2021 Austin Over‐Charge
+trips/fares__group_
+riding_issue 98
+11/24/2021 Austin
+Booked $38 group
+24 hour. How do I
+book 3 at oncew
+trips/fares__group_
+riding_issue 194
+11/18/2021 Austin
+My vehicle was
+broken or stopped
+working 30.271937 ‐97.754762 30.277287 ‐97.760607 1
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working 30.270058 ‐97.749467 30.285988 ‐97.74183 1
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working 30.269521 ‐97.744036 30.269579 ‐97.744117 0
+11/11/2021 Austin
+My vehicle was
+broken or stopped
+working 30.240703 ‐97.726434 30.232751 ‐97.720393 0
+11/21/2021 Austin Battery failed 1
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working 30.289264 ‐97.730312 30.29385 ‐97.725515 0
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working 30.268496 ‐97.740123 30.265681 ‐97.741072 0
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working 30.270575 ‐97.735674 30.277737 ‐97.735328 0
+11/18/2021 Austin
+My vehicle was
+broken or stopped
+working 30.268547 ‐97.726031 30.26858 ‐97.722393 1
+11/17/2021 Austin
+My vehicle was
+broken or stopped
+working 30.263358 ‐97.730975 30.279148 ‐97.734645 3
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working 30.278069 ‐97.741957 30.279989 ‐97.736379 1
+11/9/2021 Austin
+My vehicle was
+broken or stopped
+working 30.264002 ‐97.763963 30.264057 ‐97.763897 0
+11/15/2021 Austin
+My vehicle was
+broken or stopped
+working 30.272962 ‐97.74133 30.273149 ‐97.741996 0
+11/22/2021 Austin
+My vehicle was
+broken or stopped
+working 30.230595 ‐97.726188 30.242311 ‐97.728085 1
+11/19/2021 Austin
+My vehicle was
+broken or stopped
+working 30.265932 ‐97.749921 30.272565 ‐97.74099 1
+11/12/2021 Austin
+My vehicle was
+broken or stopped
+working 30.234734 ‐97.769045 30.227797 ‐97.771061 0
+11/23/2021 Austin
+My vehicle was
+broken or stopped
+working 30.283789 ‐97.741967 30.284089 ‐97.741996 0
+11/5/2021 Austin
+My vehicle was
+broken or stopped
+working 30.263224 ‐97.744291 30.26138 ‐97.741364 0
+11/9/2021 Austin
+My vehicle was
+broken or stopped
+working 30.263786 ‐97.744785 30.271857 ‐97.739899 0
+11/12/2021 Austin
+My vehicle was
+broken or stopped
+working 30.262697 ‐97.741164 30.273371 ‐97.742937 1
+11/30/2021 Austin
+My vehicle was
+broken or stopped
+working 30.290433 ‐97.750567 30.290319 ‐97.750697 1
+11/30/2021 Austin
+My vehicle was
+broken or stopped
+working 30.265754 ‐97.749163 30.271003 ‐97.742097 0
+11/8/2021 Austin
+My vehicle was
+broken or stopped
+working 30.261993 ‐97.738909 30.261878 ‐97.738923 1
+11/13/2021 Austin
+My vehicle was
+broken or stopped
+working 30.258931 ‐97.748676 30.268545 ‐97.745128 0
+11/16/2021 Austin
+My vehicle was
+broken or stopped
+working 30.260824 ‐97.703528 30.25897 ‐97.714586 0
+11/22/2021 Austin
+My vehicle was
+broken or stopped
+working 30.261571 ‐97.698012 30.261398 ‐97.697556 0
+11/6/2021 Austin ride wouldnt start 68
+11/12/2021 Austin
+My vehicle was
+broken or stopped
+working 30.254504 ‐97.744244 30.26317 ‐97.744491 1
+11/4/2021 Austin
+My vehicle was
+broken or stopped
+working 30.23764 ‐97.761219 30.23551 ‐97.756135 1
+11/9/2021 Austin
+My vehicle was
+broken or stopped
+working 30.261733 ‐97.722773 30.261772 ‐97.72274 1
+11/17/2021 Austin
+My vehicle was
+broken or stopped
+working 30.275535 ‐97.758854 30.275535 ‐97.758854 0
+11/28/2021 Austin
+My vehicle was
+broken or stopped
+working 30.264192 ‐97.742549 30.253594 ‐97.74375 0
+11/28/2021 Austin
+My vehicle was
+broken or stopped
+working 30.258008 ‐97.750611 30.258881 ‐97.759048 0
+11/18/2021 Austin
+Found scooter in
+unsafe atea and
+started 70
+11/5/2021 Austin
+My vehicle was
+broken or stopped
+working 30.266743 ‐97.751697 30.264652 ‐97.748779 1
+11/5/2021 Austin
+My vehicle was
+broken or stopped
+working 30.252535 ‐97.748751 30.2525 ‐97.748739 1
+11/20/2021 Austin
+My vehicle was
+broken or stopped
+working 30.277743 ‐97.735345 30.286345 ‐97.744741 0
+11/29/2021 Austin
+Bought $10 lime
+cash, was refused
+ride 55
+11/18/2021 Austin
+Scooter never
+worked and i cant
+find safe zone near 66
+11/12/2021 Austin
+My vehicle was
+broken or stopped
+working 30.265453 ‐97.740578 30.28799 ‐97.743556 1
+11/10/2021 Austin
+My vehicle was
+broken or stopped
+working 30.265515 ‐97.748409 30.273499 ‐97.743268 1
+11/7/2021 Austin
+My vehicle was
+broken or stopped
+working 30.263329 ‐97.744307 30.263276 ‐97.743561 0
+11/14/2021 Austin
+My vehicle was
+broken or stopped
+working 30.276507 ‐97.737241 30.275211 ‐97.736882 0
+11/3/2021 Austin
+My vehicle was
+broken or stopped
+working 30.290686 ‐97.734451 30.294521 ‐97.728592 1
+11/18/2021 Austin
+My vehicle was
+broken or stopped
+working 30.283799 ‐97.750769 30.290779 ‐97.74124 2
+11/16/2021 Austin Issue not resolved 99
+11/4/2021 Austin Broken ride 61
+11/17/2021 Austin
+Bike wonâ€™t end
+ride 153

@@ -1,0 +1,3 @@
+PDFs files from micromobility companies were obtained which had information related to customer complaints regarding shared micromobility services. The PDF were not easily convertible to Excel spreadsheets and it had thousands of entries. The PDF were converted to excel sheets (for tabular and clear data) and text files. The text files were then preprocessed using RegEx in python to generate information. RegEx is used to search through the string data and recognize patterns and extract information from them.
+
+A RegEx, or Regular Expression, is a sequence of characters that forms a search pattern. RegEx can be used to check if a string contains the specified search pattern.
